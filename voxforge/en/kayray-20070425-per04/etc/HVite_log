@@ -1,0 +1,568 @@
+HVite -A -D -T 1 -l * -o SWT -b silence -C /data/svn-mirror/Main/Trunk/Scripts/AcousticModel_scripts/HTK/AMCreate_scripts/input_files/config -H ./interim_files/hmm7/macros -H ./interim_files/hmm7/hmmdefs -i ./interim_files/aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I ./interim_files/words.mlf -S ./interim_files/train.scp ./interim_files/dict1 ./interim_files/monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 44 physical / 44 logical HMMs
+Label file will be used to align each file
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0001.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence CHAPTER FOUR OF PERSUASION THIS IS A LIBRIVOX RECORDING silence  ==  [605 frames] -54.0061 [Ac=-32673.7 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0002.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence ALL LIBRIVOX RECORDINGS ARE IN THE PUBLIC DOMAIN silence  ==  [343 frames] -56.9525 [Ac=-19534.7 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0003.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence FOR MORE INFORMATION OR TO VOLUNTEER PLEASE VISIT LIBRIVOX DOT ORG silence  ==  [513 frames] -58.8451 [Ac=-30187.5 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0004.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence THIS READING BY KARA SHALLENBERG PERSUASION BY JANE AUSTEN CHAPTER FOUR silence  ==  [911 frames] -53.9774 [Ac=-49173.4 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0005.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HE WAS NOT MR WENTWORTH THE FORMER CURATE OF MONKFORD silence  ==  [386 frames] -61.0287 [Ac=-23557.1 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0006.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence HOWEVER SUSPICIOUS APPEARANCES MAY BE BUT A CAPTAIN FREDERICK WENTWORTH HIS BROTHER WHO silence  ==  [632 frames] -58.6428 [Ac=-37062.2 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0007.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BEING MADE COMMANDER IN CONSEQUENCE OF THE ACTION OFF ST DOMINGO silence  ==  [418 frames] -57.0108 [Ac=-23830.5 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0008.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence AND NOT IMMEDIATELY EMPLOYED HAD COME INTO SOMERSETSHIRE IN THE SUMMER OF EIGHTEEN OH SIX silence  ==  [631 frames] -57.4856 [Ac=-36273.4 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0009.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence AND HAVING NO PARENT LIVING FOUND A HOME FOR HALF A YEAR AT MONKFORD silence  ==  [526 frames] -56.2818 [Ac=-29604.2 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0010.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HE WAS AT THAT TIME A REMARKABLY FINE YOUNG MAN silence  ==  [341 frames] -58.3443 [Ac=-19895.4 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0011.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence WITH A GREAT DEAL OF INTELLIGENCE SPIRIT AND BRILLIANCY silence  ==  [396 frames] -57.7527 [Ac=-22870.1 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0012.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence AND ANNE AN EXTREMELY PRETTY GIRL WITH GENTLENESS silence  ==  [369 frames] -58.9160 [Ac=-21740.0 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0013.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence MODESTY TASTE AND FEELING silence  ==  [410 frames] -52.7722 [Ac=-21636.6 LM=0.0] (Act=7.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0014.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence HALF THE SUM OF ATTRACTION ON EITHER SIDE MIGHT HAVE BEEN ENOUGH silence  ==  [380 frames] -58.5154 [Ac=-22235.9 LM=0.0] (Act=10.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0015.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence FOR HE HAD NOTHING TO DO AND SHE HAD HARDLY ANYBODY TO LOVE silence  ==  [466 frames] -57.4740 [Ac=-26782.9 LM=0.0] (Act=11.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0016.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence BUT THE ENCOUNTER OF SUCH LAVISH RECOMMENDATIONS COULD NOT FAIL silence  ==  [483 frames] -55.9693 [Ac=-27033.2 LM=0.0] (Act=7.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0017.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THEY WERE GRADUALLY ACQUAINTED AND WHEN ACQUAINTED RAPIDLY AND DEEPLY IN LOVE silence  ==  [601 frames] -58.4021 [Ac=-35099.7 LM=0.0] (Act=11.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0018.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence IT WOULD BE DIFFICULT TO SAY WHICH HAD SEEN HIGHEST PERFECTION IN THE OTHER silence  ==  [421 frames] -59.4715 [Ac=-25037.5 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0019.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence OR WHICH HAD BEEN THE HAPPIEST SHE IN RECEIVING HIS DECLARATIONS AND PROPOSALS silence  ==  [562 frames] -58.7740 [Ac=-33031.0 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0020.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence OR HE IN HAVING THEM ACCEPTED A SHORT PERIOD OF EXQUISITE FELICITY FOLLOWED silence  ==  [802 frames] -55.0321 [Ac=-44135.7 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0021.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence AND BUT A SHORT ONE TROUBLES SOON AROSE silence  ==  [464 frames] -57.3918 [Ac=-26629.8 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0022.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence SIR WALTER ON BEING APPLIED TO WITHOUT ACTUALLY WITHHOLDING HIS CONSENT silence  ==  [493 frames] -59.9112 [Ac=-29536.2 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0023.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence OR SAYING IT SHOULD NEVER BE GAVE IT ALL THE NEGATIVE OF GREAT ASTONISHMENT silence  ==  [577 frames] -58.6919 [Ac=-33865.2 LM=0.0] (Act=10.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0024.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence GREAT COLDNESS GREAT SILENCE AND A PROFESSED RESOLUTION OF DOING NOTHING FOR HIS DAUGHTER silence  ==  [859 frames] -56.3048 [Ac=-48365.9 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0025.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HE THOUGHT IT A VERY DEGRADING ALLIANCE AND LADY RUSSELL silence  ==  [447 frames] -59.3435 [Ac=-26526.5 LM=0.0] (Act=9.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0026.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence THOUGH WITH MORE TEMPERED AND PARDONABLE PRIDE silence  ==  [311 frames] -57.8131 [Ac=-17979.9 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0027.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence RECEIVED IT AS A MOST UNFORTUNATE ONE ANNE ELLIOT silence  ==  [530 frames] -56.1583 [Ac=-29763.9 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0028.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence WITH ALL HER CLAIMS OF BIRTH BEAUTY AND MIND silence  ==  [379 frames] -56.7129 [Ac=-21494.2 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0029.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence TO THROW HERSELF AWAY AT NINETEEN silence  ==  [244 frames] -57.1316 [Ac=-13940.1 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0030.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence INVOLVE HERSELF AT NINETEEN IN AN ENGAGEMENT WITH A YOUNG MAN silence  ==  [378 frames] -59.2757 [Ac=-22406.2 LM=0.0] (Act=11.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0031.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence WHO HAD NOTHING BUT HIMSELF TO RECOMMEND HIM silence  ==  [288 frames] -58.7488 [Ac=-16919.7 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0032.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence AND NO HOPES OF ATTAINING AFFLUENCE silence  ==  [293 frames] -56.1798 [Ac=-16460.7 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0033.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence BUT IN THE CHANCES OF A MOST UNCERTAIN PROFESSION silence  ==  [314 frames] -58.0174 [Ac=-18217.5 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0034.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND NO CONNEXIONS TO SECURE EVEN HIS FARTHER RISE IN THE PROFESSION silence  ==  [426 frames] -58.7147 [Ac=-25012.5 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0035.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WOULD BE INDEED A THROWING AWAY WHICH SHE GRIEVED TO THINK OF silence  ==  [607 frames] -55.2967 [Ac=-33565.1 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0036.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence ANNE ELLIOT SO YOUNG silence  ==  [191 frames] -55.3151 [Ac=-10565.2 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0037.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence KNOWN TO SO FEW TO BE SNATCHED OFF BY A STRANGER WITHOUT ALLIANCE OR FORTUNE silence  ==  [581 frames] -59.1354 [Ac=-34357.7 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0038.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence OR RATHER SUNK BY HIM INTO A STATE OF MOST WEARING ANXIOUS silence  ==  [469 frames] -60.1360 [Ac=-28203.8 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0039.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence YOUTH KILLING DEPENDENCE IT MUST NOT BE silence  ==  [348 frames] -59.4871 [Ac=-20701.5 LM=0.0] (Act=10.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0040.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence IF BY ANY FAIR INTERFERENCE OF FRIENDSHIP silence  ==  [288 frames] -57.8936 [Ac=-16673.4 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0041.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence ANY REPRESENTATIONS FROM ONE WHO HAD ALMOST A MOTHER'S LOVE silence  ==  [403 frames] -59.6969 [Ac=-24057.8 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0042.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND MOTHER'S RIGHTS IT WOULD BE PREVENTED CAPTAIN WENTWORTH HAD NO FORTUNE silence  ==  [768 frames] -55.7340 [Ac=-42803.7 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0043.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence HE HAD BEEN LUCKY IN HIS PROFESSION silence  ==  [221 frames] -59.2841 [Ac=-13101.8 LM=0.0] (Act=10.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0044.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence BUT SPENDING FREELY WHAT HAD COME FREELY HAD REALIZED NOTHING silence  ==  [480 frames] -58.6994 [Ac=-28175.7 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0045.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence BUT HE WAS CONFIDENT THAT HE SHOULD SOON BE RICH silence  ==  [284 frames] -60.7715 [Ac=-17259.1 LM=0.0] (Act=9.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0046.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence FULL OF LIFE AND ARDOUR HE KNEW THAT HE SHOULD SOON HAVE A SHIP silence  ==  [393 frames] -59.6860 [Ac=-23456.6 LM=0.0] (Act=11.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0047.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND SOON BE ON A STATION THAT WOULD LEAD TO EVERYTHING HE WANTED silence  ==  [421 frames] -57.8677 [Ac=-24362.3 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0048.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence HE HAD ALWAYS BEEN LUCKY HE KNEW HE SHOULD BE SO STILL silence  ==  [436 frames] -57.1166 [Ac=-24902.9 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0049.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence SUCH CONFIDENCE POWERFUL IN ITS OWN WARMTH AND BEWITCHING silence  ==  [410 frames] -57.8801 [Ac=-23730.8 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0050.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence IN THE WIT WHICH OFTEN EXPRESSED IT silence  ==  [217 frames] -59.2537 [Ac=-12858.1 LM=0.0] (Act=10.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0051.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence MUST HAVE BEEN ENOUGH FOR ANNE BUT LADY RUSSELL SAW IT VERY DIFFERENTLY silence  ==  [642 frames] -54.9339 [Ac=-35267.6 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0052.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence HIS SANGUINE TEMPER AND FEARLESSNESS OF MIND OPERATED VERY DIFFERENTLY ON HER silence  ==  [607 frames] -55.9599 [Ac=-33967.6 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0053.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence SHE SAW IN IT BUT AN AGGRAVATION OF THE EVIL silence  ==  [324 frames] -57.4086 [Ac=-18600.4 LM=0.0] (Act=10.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0054.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence IT ONLY ADDED A DANGEROUS CHARACTER TO HIMSELF HE WAS BRILLIANT silence  ==  [485 frames] -60.3848 [Ac=-29286.6 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0055.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HE WAS HEADSTRONG LADY RUSSELL HAD LITTLE TASTE FOR WIT silence  ==  [454 frames] -57.9713 [Ac=-26319.0 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0056.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence AND OF ANYTHING APPROACHING TO IMPRUDENCE A HORROR silence  ==  [428 frames] -57.0339 [Ac=-24410.5 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0057.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence SHE DEPRECATED THE CONNEXION IN EVERY LIGHT silence  ==  [513 frames] -52.9103 [Ac=-27143.0 LM=0.0] (Act=7.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0058.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence SUCH OPPOSITION AS THESE FEELINGS PRODUCED WAS MORE THAN ANNE COULD COMBAT silence  ==  [585 frames] -57.1951 [Ac=-33459.1 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0059.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence YOUNG AND GENTLE AS SHE WAS silence  ==  [208 frames] -56.6118 [Ac=-11775.3 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0060.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence IT MIGHT YET HAVE BEEN POSSIBLE TO WITHSTAND HER FATHER'S ILL WILL silence  ==  [449 frames] -58.0962 [Ac=-26085.2 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0061.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence THOUGH UNSOFTENED BY ONE KIND WORD OR LOOK ON THE PART OF HER SISTER silence  ==  [472 frames] -58.6841 [Ac=-27698.9 LM=0.0] (Act=11.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0062.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence BUT LADY RUSSELL WHOM SHE HAD ALWAYS LOVED AND RELIED ON COULD NOT silence  ==  [491 frames] -58.2246 [Ac=-28588.3 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0063.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WITH SUCH STEADINESS OF OPINION AND SUCH TENDERNESS OF MANNER silence  ==  [415 frames] -57.7750 [Ac=-23976.6 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0064.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence BE CONTINUALLY ADVISING HER IN VAIN silence  ==  [330 frames] -53.9734 [Ac=-17811.2 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0065.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence SHE WAS PERSUADED TO BELIEVE THE ENGAGEMENT A WRONG THING silence  ==  [355 frames] -58.8609 [Ac=-20895.6 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0066.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence INDISCREET IMPROPER HARDLY CAPABLE OF SUCCESS AND NOT DESERVING IT silence  ==  [642 frames] -56.0464 [Ac=-35981.8 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0067.mfc
+Created lattice with 20 nodes / 19 arcs from label file
+silence BUT IT WAS NOT A MERELY SELFISH CAUTION UNDER WHICH SHE ACTED IN PUTTING AN END TO IT silence  ==  [585 frames] -56.8324 [Ac=-33247.0 LM=0.0] (Act=10.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0068.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence HAD SHE NOT IMAGINED HERSELF CONSULTING HIS GOOD silence  ==  [319 frames] -58.1745 [Ac=-18557.7 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0069.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence EVEN MORE THAN HER OWN SHE COULD HARDLY HAVE GIVEN HIM UP silence  ==  [546 frames] -52.5761 [Ac=-28706.6 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0070.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence THE BELIEF OF BEING PRUDENT AND SELF DENYING silence  ==  [301 frames] -56.8887 [Ac=-17123.5 LM=0.0] (Act=9.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0071.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence PRINCIPALLY FOR HIS ADVANTAGE WAS HER CHIEF CONSOLATION silence  ==  [351 frames] -58.0706 [Ac=-20382.8 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0072.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence UNDER THE MISERY OF A PARTING A FINAL PARTING silence  ==  [369 frames] -56.3278 [Ac=-20785.0 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0073.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence AND EVERY CONSOLATION WAS REQUIRED silence  ==  [251 frames] -60.0328 [Ac=-15068.2 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0074.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence FOR SHE HAD TO ENCOUNTER ALL THE ADDITIONAL PAIN OF OPINIONS ON HIS SIDE silence  ==  [447 frames] -58.5727 [Ac=-26182.0 LM=0.0] (Act=10.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0075.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence TOTALLY UNCONVINCED AND UNBENDING AND OF HIS FEELING HIMSELF ILL USED silence  ==  [505 frames] -58.4453 [Ac=-29514.9 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0076.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence BY SO FORCED A RELINQUISHMENT HE HAD LEFT THE COUNTRY IN CONSEQUENCE silence  ==  [823 frames] -53.9898 [Ac=-44433.6 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0077.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence A FEW MONTHS HAD SEEN THE BEGINNING AND THE END OF THEIR ACQUAINTANCE silence  ==  [395 frames] -57.3430 [Ac=-22650.5 LM=0.0] (Act=10.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0078.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence BUT NOT WITH A FEW MONTHS ENDED ANNE'S SHARE OF SUFFERING FROM IT silence  ==  [526 frames] -54.2039 [Ac=-28511.3 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0079.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence HER ATTACHMENT AND REGRETS HAD FOR A LONG TIME silence  ==  [366 frames] -56.8919 [Ac=-20822.4 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0080.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence CLOUDED EVERY ENJOYMENT OF YOUTH silence  ==  [260 frames] -55.6940 [Ac=-14480.4 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0081.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND AN EARLY LOSS OF BLOOM AND SPIRITS HAD BEEN THEIR LASTING EFFECT silence  ==  [636 frames] -53.7219 [Ac=-34167.1 LM=0.0] (Act=7.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0082.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+silence MORE THAN SEVEN YEARS WERE GONE SINCE THIS LITTLE HISTORY OF SORROWFUL INTEREST HAD REACHED ITS CLOSE silence  ==  [584 frames] -58.8710 [Ac=-34380.7 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0083.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence AND TIME HAD SOFTENED DOWN MUCH PERHAPS NEARLY ALL OF PECULIAR ATTACHMENT TO HIM silence  ==  [604 frames] -58.7048 [Ac=-35457.7 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0084.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence BUT SHE HAD BEEN TOO DEPENDENT ON TIME ALONE silence  ==  [346 frames] -54.8893 [Ac=-18991.7 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0085.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence NO AID HAD BEEN GIVEN IN CHANGE OF PLACE silence  ==  [336 frames] -54.2945 [Ac=-18242.9 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0086.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence EXCEPT IN ONE VISIT TO BATH SOON AFTER THE RUPTURE silence  ==  [360 frames] -57.0319 [Ac=-20531.5 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0087.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence OR IN ANY NOVELTY OR ENLARGEMENT OF SOCIETY silence  ==  [416 frames] -54.6752 [Ac=-22744.9 LM=0.0] (Act=6.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0088.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence NO ONE HAD EVER COME WITHIN THE KELLYNCH CIRCLE silence  ==  [276 frames] -59.1657 [Ac=-16329.7 LM=0.0] (Act=10.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0089.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence WHO COULD BEAR A COMPARISON WITH FREDERICK WENTWORTH silence  ==  [299 frames] -59.1513 [Ac=-17686.2 LM=0.0] (Act=10.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0090.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence AS HE STOOD IN HER MEMORY NO SECOND ATTACHMENT silence  ==  [472 frames] -56.0636 [Ac=-26462.0 LM=0.0] (Act=11.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0091.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence THE ONLY THOROUGHLY NATURAL HAPPY AND SUFFICIENT CURE AT HER TIME OF LIFE silence  ==  [470 frames] -58.5549 [Ac=-27520.8 LM=0.0] (Act=10.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0092.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HAD BEEN POSSIBLE TO THE NICE TONE OF HER MIND silence  ==  [305 frames] -56.9935 [Ac=-17383.0 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0093.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence THE FASTIDIOUSNESS OF HER TASTE IN THE SMALL LIMITS OF THE SOCIETY AROUND THEM silence  ==  [631 frames] -55.3278 [Ac=-34911.9 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0094.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+silence SHE HAD BEEN SOLICITED WHEN ABOUT TWO AND TWENTY TO CHANGE HER NAME BY THE YOUNG MAN silence  ==  [515 frames] -58.6141 [Ac=-30186.3 LM=0.0] (Act=11.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0095.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence WHO NOT LONG AFTERWARDS FOUND A MORE WILLING MIND IN HER YOUNGER SISTER silence  ==  [452 frames] -57.3678 [Ac=-25930.2 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0096.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence AND LADY RUSSELL HAD LAMENTED HER REFUSAL silence  ==  [296 frames] -58.8783 [Ac=-17428.0 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0097.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence FOR CHARLES MUSGROVE WAS THE ELDEST SON OF A MAN WHOSE LANDED PROPERTY silence  ==  [433 frames] -59.1285 [Ac=-25602.7 LM=0.0] (Act=10.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0098.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND GENERAL IMPORTANCE WERE SECOND IN THAT COUNTRY ONLY TO SIR WALTER'S silence  ==  [478 frames] -57.9365 [Ac=-27693.7 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0099.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence AND OF GOOD CHARACTER AND APPEARANCE silence  ==  [373 frames] -55.1854 [Ac=-20584.1 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0100.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence AND HOWEVER LADY RUSSELL MIGHT HAVE ASKED YET FOR SOMETHING MORE silence  ==  [378 frames] -58.9922 [Ac=-22299.1 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0101.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence WHILE ANNE WAS NINETEEN silence  ==  [174 frames] -57.2289 [Ac=-9957.8 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0102.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence SHE WOULD HAVE REJOICED TO SEE HER AT TWENTY TWO SO RESPECTABLY REMOVED silence  ==  [460 frames] -60.1599 [Ac=-27673.5 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0103.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence FROM THE PARTIALITIES AND INJUSTICE OF HER FATHER'S HOUSE silence  ==  [401 frames] -56.8073 [Ac=-22779.7 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0104.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND SETTLED SO PERMANENTLY NEAR HERSELF BUT IN THIS CASE silence  ==  [636 frames] -59.5015 [Ac=-37843.0 LM=0.0] (Act=13.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0105.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence ANNE HAD LEFT NOTHING FOR ADVICE TO DO AND THOUGH LADY RUSSELL silence  ==  [448 frames] -57.8029 [Ac=-25895.7 LM=0.0] (Act=11.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0106.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence AS SATISFIED AS EVER WITH HER OWN DISCRETION silence  ==  [288 frames] -54.7531 [Ac=-15768.9 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0107.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence NEVER WISHED THE PAST UNDONE silence  ==  [241 frames] -55.7867 [Ac=-13444.6 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0108.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence SHE BEGAN NOW TO HAVE THE ANXIETY WHICH BORDERS ON HOPELESSNESS FOR ANNE'S BEING TEMPTED silence  ==  [540 frames] -59.0739 [Ac=-31899.9 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0109.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence BY SOME MAN OF TALENTS AND INDEPENDENCE silence  ==  [294 frames] -55.5559 [Ac=-16333.4 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0110.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence TO ENTER A STATE FOR WHICH SHE HELD HER TO BE PECULIARLY FITTED silence  ==  [378 frames] -59.5828 [Ac=-22522.3 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0111.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence BY HER WARM AFFECTIONS AND DOMESTIC HABITS THEY KNEW NOT EACH OTHER'S OPINION silence  ==  [803 frames] -59.1782 [Ac=-47520.1 LM=0.0] (Act=11.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0112.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence EITHER ITS CONSTANCY OR ITS CHANGE ON THE ONE LEADING POINT OF ANNE'S CONDUCT silence  ==  [556 frames] -57.9887 [Ac=-32241.7 LM=0.0] (Act=9.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0113.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence FOR THE SUBJECT WAS NEVER ALLUDED TO BUT ANNE AT silence  ==  [413 frames] -57.7954 [Ac=-23869.5 LM=0.0] (Act=11.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0114.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence SEVEN AND TWENTY THOUGHT VERY DIFFERENTLY FROM WHAT SHE HAD BEEN MADE TO THINK AT NINETEEN silence  ==  [678 frames] -55.4388 [Ac=-37587.5 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0115.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence SHE DID NOT BLAME LADY RUSSELL silence  ==  [198 frames] -57.2673 [Ac=-11338.9 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0116.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence SHE DID NOT BLAME HERSELF FOR HAVING BEEN GUIDED BY HER silence  ==  [374 frames] -56.1979 [Ac=-21018.0 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0117.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BUT SHE FELT THAT WERE ANY YOUNG PERSON IN SIMILAR CIRCUMSTANCES silence  ==  [411 frames] -58.6579 [Ac=-24108.4 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0118.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence TO APPLY TO HER FOR COUNSEL silence  ==  [252 frames] -57.0435 [Ac=-14375.0 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0119.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THEY WOULD NEVER RECEIVE ANY OF SUCH CERTAIN IMMEDIATE WRETCHEDNESS silence  ==  [400 frames] -58.3258 [Ac=-23330.3 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0120.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence SUCH UNCERTAIN FUTURE GOOD SHE WAS PERSUADED THAT silence  ==  [537 frames] -59.0180 [Ac=-31692.7 LM=0.0] (Act=9.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0121.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence UNDER EVERY DISADVANTAGE OF DISAPPROBATION AT HOME silence  ==  [367 frames] -56.5650 [Ac=-20759.4 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0122.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND EVERY ANXIETY ATTENDING HIS PROFESSION ALL THEIR PROBABLE FEARS DELAYS AND DISAPPOINTMENTS silence  ==  [684 frames] -57.7762 [Ac=-39518.9 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0123.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence SHE SHOULD YET HAVE BEEN A HAPPIER WOMAN IN MAINTAINING THE ENGAGEMENT silence  ==  [444 frames] -57.9414 [Ac=-25726.0 LM=0.0] (Act=11.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0124.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence THAN SHE HAD BEEN IN THE SACRIFICE OF IT AND THIS silence  ==  [354 frames] -57.0261 [Ac=-20187.3 LM=0.0] (Act=11.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0125.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence SHE FULLY BELIEVED HAD THE USUAL SHARE silence  ==  [309 frames] -56.9886 [Ac=-17609.5 LM=0.0] (Act=10.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0126.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence HAD EVEN MORE THAN THE USUAL SHARE OF ALL SUCH SOLICITUDES AND SUSPENSE BEEN THEIRS silence  ==  [606 frames] -57.0969 [Ac=-34600.7 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0127.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WITHOUT REFERENCE TO THE ACTUAL RESULTS OF THEIR CASE WHICH silence  ==  [418 frames] -59.5124 [Ac=-24876.2 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0128.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence AS IT HAPPENED WOULD HAVE BESTOWED EARLIER PROSPERITY THAN COULD BE REASONABLY CALCULATED ON silence  ==  [781 frames] -55.4549 [Ac=-43310.3 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0129.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence ALL HIS SANGUINE EXPECTATIONS ALL HIS CONFIDENCE HAD BEEN JUSTIFIED silence  ==  [603 frames] -56.4211 [Ac=-34021.9 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0130.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence HIS GENIUS AND ARDOUR HAD SEEMED TO FORESEE AND TO COMMAND HIS PROSPEROUS PATH silence  ==  [701 frames] -55.7882 [Ac=-39107.5 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0131.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HE HAD VERY SOON AFTER THEIR ENGAGEMENT CEASED GOT EMPLOY silence  ==  [480 frames] -56.8362 [Ac=-27281.4 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0132.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND ALL THAT HE HAD TOLD HER WOULD FOLLOW HAD TAKEN PLACE silence  ==  [390 frames] -56.9340 [Ac=-22204.3 LM=0.0] (Act=9.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0133.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence HE HAD DISTINGUISHED HIMSELF AND EARLY GAINED THE OTHER STEP IN RANK silence  ==  [493 frames] -59.0994 [Ac=-29136.0 LM=0.0] (Act=10.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0134.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence AND MUST NOW BY SUCCESSIVE CAPTURES HAVE MADE A HANDSOME FORTUNE silence  ==  [670 frames] -54.2808 [Ac=-36368.2 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0135.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence SHE HAD ONLY NAVY LISTS AND NEWSPAPERS FOR HER AUTHORITY silence  ==  [400 frames] -58.0463 [Ac=-23218.5 LM=0.0] (Act=10.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0136.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence BUT SHE COULD NOT DOUBT HIS BEING RICH silence  ==  [250 frames] -55.9103 [Ac=-13977.6 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0137.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence AND IN FAVOUR OF HIS CONSTANCY silence  ==  [269 frames] -56.0985 [Ac=-15090.5 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0138.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence SHE HAD NO REASON TO BELIEVE HIM MARRIED silence  ==  [460 frames] -52.3924 [Ac=-24100.5 LM=0.0] (Act=6.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0139.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence HOW ELOQUENT COULD ANNE ELLIOT HAVE BEEN HOW ELOQUENT AT LEAST silence  ==  [521 frames] -57.6460 [Ac=-30033.6 LM=0.0] (Act=10.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0140.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WERE HER WISHES ON THE SIDE OF EARLY WARM ATTACHMENT silence  ==  [382 frames] -57.0987 [Ac=-21811.7 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0141.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence AND A CHEERFUL CONFIDENCE IN FUTURITY silence  ==  [258 frames] -58.2543 [Ac=-15029.6 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0142.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AGAINST THAT OVER ANXIOUS CAUTION WHICH SEEMS TO INSULT EXERTION AND DISTRUST PROVIDENCE silence  ==  [862 frames] -55.5364 [Ac=-47872.4 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0143.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence SHE HAD BEEN FORCED INTO PRUDENCE IN HER YOUTH silence  ==  [295 frames] -57.1061 [Ac=-16846.3 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0144.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence SHE LEARNED ROMANCE AS SHE GREW OLDER silence  ==  [289 frames] -55.7500 [Ac=-16111.8 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0145.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence THE NATURAL SEQUEL OF AN UNNATURAL BEGINNING silence  ==  [544 frames] -52.1061 [Ac=-28345.7 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0146.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence WITH ALL THESE CIRCUMSTANCES RECOLLECTIONS AND FEELINGS silence  ==  [389 frames] -58.1072 [Ac=-22603.7 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0147.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence SHE COULD NOT HEAR THAT CAPTAIN WENTWORTH'S SISTER WAS LIKELY TO LIVE AT KELLYNCH silence  ==  [480 frames] -59.1978 [Ac=-28414.9 LM=0.0] (Act=10.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0148.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence WITHOUT A REVIVAL OF FORMER PAIN silence  ==  [297 frames] -56.4848 [Ac=-16776.0 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0149.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND MANY A STROLL AND MANY A SIGH WERE NECESSARY silence  ==  [373 frames] -56.7486 [Ac=-21167.2 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0150.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence TO DISPEL THE AGITATION OF THE IDEA silence  ==  [499 frames] -52.7791 [Ac=-26336.8 LM=0.0] (Act=6.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0151.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence SHE OFTEN TOLD HERSELF IT WAS FOLLY silence  ==  [262 frames] -59.1818 [Ac=-15505.6 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0152.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence BEFORE SHE COULD HARDEN HER NERVES SUFFICIENTLY TO FEEL THE CONTINUAL DISCUSSION OF THE CROFTS silence  ==  [524 frames] -59.9087 [Ac=-31392.2 LM=0.0] (Act=10.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0153.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence AND THEIR BUSINESS NO EVIL SHE WAS ASSISTED HOWEVER silence  ==  [482 frames] -55.4376 [Ac=-26720.9 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0154.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence BY THAT PERFECT INDIFFERENCE AND APPARENT UNCONSCIOUSNESS silence  ==  [377 frames] -58.6401 [Ac=-22107.3 LM=0.0] (Act=10.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0155.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence AMONG THE ONLY THREE OF HER OWN FRIENDS IN THE SECRET OF THE PAST silence  ==  [418 frames] -57.1327 [Ac=-23881.5 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0156.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence WHICH SEEMED ALMOST TO DENY ANY RECOLLECTION OF IT silence  ==  [549 frames] -53.5996 [Ac=-29426.2 LM=0.0] (Act=6.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0157.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence SHE COULD DO JUSTICE TO THE SUPERIORITY OF LADY RUSSELL'S MOTIVES IN THIS silence  ==  [421 frames] -60.1579 [Ac=-25326.5 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0158.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence OVER THOSE OF HER FATHER AND ELIZABETH silence  ==  [275 frames] -55.2404 [Ac=-15191.1 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0159.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence SHE COULD HONOUR ALL THE BETTER FEELINGS OF HER CALMNESS silence  ==  [378 frames] -57.0101 [Ac=-21549.8 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0160.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BUT THE GENERAL AIR OF OBLIVION AMONG THEM WAS HIGHLY IMPORTANT silence  ==  [395 frames] -59.9593 [Ac=-23683.9 LM=0.0] (Act=11.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0161.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence FROM WHATEVER IT SPRUNG AND IN THE EVENT OF ADMIRAL CROFT'S REALLY TAKING KELLYNCH HALL silence  ==  [603 frames] -57.8959 [Ac=-34911.2 LM=0.0] (Act=9.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0162.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence SHE REJOICED ANEW OVER THE CONVICTION WHICH HAD ALWAYS BEEN MOST GRATEFUL TO HER silence  ==  [477 frames] -58.2677 [Ac=-27793.7 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0163.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence OF THE PAST BEING KNOWN TO THOSE THREE ONLY AMONG HER CONNEXIONS silence  ==  [444 frames] -59.1154 [Ac=-26247.2 LM=0.0] (Act=11.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0164.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence BY WHOM NO SYLLABLE SHE BELIEVED WOULD EVER BE WHISPERED silence  ==  [442 frames] -57.0246 [Ac=-25204.9 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0165.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence AND IN THE TRUST THAT AMONG HIS silence  ==  [247 frames] -55.3385 [Ac=-13668.6 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0166.mfc
+Created lattice with 20 nodes / 19 arcs from label file
+silence THE BROTHER ONLY WITH WHOM HE HAD BEEN RESIDING HAD RECEIVED ANY INFORMATION OF THEIR SHORT LIVED ENGAGEMENT silence  ==  [823 frames] -54.1542 [Ac=-44568.9 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0167.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence THAT BROTHER HAD BEEN LONG REMOVED FROM THE COUNTRY silence  ==  [310 frames] -58.4839 [Ac=-18130.0 LM=0.0] (Act=10.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0168.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND BEING A SENSIBLE MAN AND MOREOVER A SINGLE MAN AT THE TIME silence  ==  [441 frames] -57.2290 [Ac=-25238.0 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0169.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence SHE HAD A FOND DEPENDENCE ON NO HUMAN CREATURE'S HAVING HEARD OF IT FROM HIM silence  ==  [689 frames] -53.8169 [Ac=-37079.9 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0170.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence THE SISTER MRS CROFT silence  ==  [194 frames] -59.0408 [Ac=-11453.9 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0171.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence HAD THEN BEEN OUT OF ENGLAND ACCOMPANYING HER HUSBAND ON A FOREIGN STATION silence  ==  [449 frames] -56.6571 [Ac=-25439.1 LM=0.0] (Act=10.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0172.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND HER OWN SISTER MARY HAD BEEN AT SCHOOL WHILE IT ALL OCCURRED silence  ==  [461 frames] -58.0227 [Ac=-26748.5 LM=0.0] (Act=11.2)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0173.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence AND NEVER ADMITTED BY THE PRIDE OF SOME silence  ==  [264 frames] -57.2454 [Ac=-15112.8 LM=0.0] (Act=10.5)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0174.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND THE DELICACY OF OTHERS TO THE SMALLEST KNOWLEDGE OF IT AFTERWARDS silence  ==  [747 frames] -53.3118 [Ac=-39823.9 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0175.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence WITH THESE SUPPORTS SHE HOPED THAT THE ACQUAINTANCE BETWEEN HERSELF AND THE CROFTS silence  ==  [524 frames] -59.6865 [Ac=-31275.7 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0176.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence WHICH WITH LADY RUSSELL STILL RESIDENT IN KELLYNCH AND MARY FIXED ONLY THREE MILES OFF silence  ==  [547 frames] -58.8776 [Ac=-32206.1 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0177.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence MUST BE ANTICIPATED NEED NOT INVOLVE ANY PARTICULAR AWKWARDNESS silence  ==  [886 frames] -52.4344 [Ac=-46456.9 LM=0.0] (Act=7.3)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0178.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence END OF CHAPTER FOUR READ BY KARA SHALLENBERG ON MARCH FIRST TWO THOUSAND AND SEVEN silence  ==  [562 frames] -59.5390 [Ac=-33460.9 LM=0.0] (Act=12.9)
+Aligning File: /data/UserSubmissions/Quarantine/librivox-20070425-per04/mfc/per0179.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+silence IN OCEANSIDE CALIFORNIA silence  ==  [1054 frames] -42.8399 [Ac=-45153.2 LM=0.0] (Act=7.4)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+

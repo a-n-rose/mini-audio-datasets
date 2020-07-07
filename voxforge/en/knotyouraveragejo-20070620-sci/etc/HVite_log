@@ -1,0 +1,736 @@
+HVite -A -D -T 1 -l * -o SWT -b silence -C /data/svn-mirror/Main/Trunk/Scripts/AcousticModel_scripts/HTK/AMCreate_scripts/input_files/config -H ./interim_files/hmm7/macros -H ./interim_files/hmm7/hmmdefs -i ./interim_files/aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I ./interim_files/words.mlf -S ./interim_files/train.scp ./interim_files/dict1 ./interim_files/monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 44 physical / 44 logical HMMs
+Label file will be used to align each file
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0001.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence SECTION ONE OF THE ADVANCE OF SCIENCE THIS IS A LIBRIVOX RECORDING silence  ==  [598 frames] -56.8616 [Ac=-34003.3 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0002.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence ALL LIBRIVOX RECORDINGS ARE IN THE PUBLIC DOMAIN FOR MORE INFORMATION silence  ==  [515 frames] -56.2384 [Ac=-28962.8 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0003.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence OR TO VOLUNTEER PLEASE VISIT LIBRIVOX DOT ORG THE silence  ==  [536 frames] -56.0666 [Ac=-30051.7 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0004.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence ADVANCE OF SCIENCE IN THE LAST HALF CENTURY BY T H silence  ==  [587 frames] -53.0118 [Ac=-31117.9 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0005.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence HUXLEY EIGHTEEN EIGHTY NINE THE MOST OBVIOUS silence  ==  [626 frames] -54.4288 [Ac=-34072.4 LM=0.0] (Act=10.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0006.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND THE MOST DISTINCTIVE FEATURES OF THE HISTORY OF CIVILISATION silence  ==  [342 frames] -60.4438 [Ac=-20671.8 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0007.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence DURING THE LAST FIFTY YEARS IS THE WONDERFUL INCREASE OF INDUSTRIAL PRODUCTION silence  ==  [503 frames] -59.4167 [Ac=-29886.6 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0008.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BY THE APPLICATION OF MACHINERY THE IMPROVEMENT OF OLD TECHNICAL PROCESSES silence  ==  [516 frames] -57.6896 [Ac=-29767.8 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0009.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND THE INVENTION OF NEW ONES ACCOMPANIED BY AN EVEN MORE REMARKABLE DEVELOPMENT silence  ==  [489 frames] -58.6170 [Ac=-28663.7 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0010.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence OF OLD AND NEW MEANS OF LOCOMOTION AND INTERCOMMUNICATION silence  ==  [442 frames] -56.9048 [Ac=-25151.9 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0011.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence BY THIS RAPID AND VAST MULTIPLICATION OF THE COMMODITIES silence  ==  [390 frames] -56.5090 [Ac=-22038.5 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0012.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND CONVENIENCES OF EXISTENCE THE GENERAL STANDARD OF COMFORT HAS BEEN RAISED silence  ==  [475 frames] -58.5310 [Ac=-27802.2 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0013.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence THE RAVAGES OF PESTILENCE AND FAMINE HAVE BEEN CHECKED silence  ==  [341 frames] -56.4301 [Ac=-19242.7 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0014.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND THE NATURAL OBSTACLES WHICH TIME AND SPACE OFFER TO MUTUAL INTERCOURSE silence  ==  [479 frames] -58.5213 [Ac=-28031.7 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0015.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HAVE BEEN REDUCED IN A MANNER AND TO AN EXTENT silence  ==  [292 frames] -57.1595 [Ac=-16690.6 LM=0.0] (Act=10.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0016.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence UNKNOWN TO FORMER AGES THE DIMINUTION OR REMOVAL OF LOCAL IGNORANCE AND PREJUDICE silence  ==  [724 frames] -54.3524 [Ac=-39351.1 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0017.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THE CREATION OF COMMON INTERESTS AMONG THE MOST WIDELY SEPARATED PEOPLES AND silence  ==  [463 frames] -57.0246 [Ac=-26402.4 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0018.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence THE STRENGTHENING OF THE FORCES OF THE ORGANISATION OF THE COMMONWEALTH AGAINST THOSE OF silence  ==  [499 frames] -58.0747 [Ac=-28979.3 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0019.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence POLITICAL OR SOCIAL ANARCHY THUS EFFECTED silence  ==  [315 frames] -58.8906 [Ac=-18550.5 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0020.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence HAVE EXERTED AN INFLUENCE ON THE PRESENT AND FUTURE FORTUNES OF MANKIND silence  ==  [444 frames] -59.3265 [Ac=-26341.0 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0021.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THE FULL SIGNIFICANCE OF WHICH MAY BE DIVINED BUT CANNOT AS YET silence  ==  [431 frames] -57.9577 [Ac=-24979.8 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0022.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence BE ESTIMATED AT ITS FULL VALUE THIS REVOLUTION FOR IT IS NOTHING LESS silence  ==  [546 frames] -56.2215 [Ac=-30696.9 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0023.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence IN THE POLITICAL AND SOCIAL ASPECTS OF MODERN CIVILISATION HAS silence  ==  [369 frames] -61.4102 [Ac=-22660.4 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0024.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence BEEN PRECEDED ACCOMPANIED AND IN GREAT MEASURE CAUSED silence  ==  [371 frames] -58.4257 [Ac=-21675.9 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0025.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence BY A LESS OBVIOUS BUT NO LESS MARVELLOUS INCREASE OF NATURAL KNOWLEDGE AND silence  ==  [460 frames] -57.6655 [Ac=-26526.1 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0026.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence ESPECIALLY OF THAT PART OF IT WHICH IS KNOWN AS PHYSICAL SCIENCE silence  ==  [465 frames] -56.1509 [Ac=-26110.2 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0027.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence IN CONSEQUENCE OF THE APPLICATION OF SCIENTIFIC METHOD silence  ==  [338 frames] -58.0658 [Ac=-19626.2 LM=0.0] (Act=7.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0028.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence TO THE INVESTIGATION OF THE PHENOMENA OF THE MATERIAL WORLD silence  ==  [425 frames] -54.6128 [Ac=-23210.5 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0029.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence NOT THAT THE GROWTH OF PHYSICAL SCIENCE IS AN EXCLUSIVE PREROGATIVE OF THE VICTORIAN AGE silence  ==  [597 frames] -56.2618 [Ac=-33588.3 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0030.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence ITS PRESENT STRENGTH AND VOLUME MERELY INDICATE THE HIGHEST LEVEL OF A STREAM silence  ==  [500 frames] -57.6933 [Ac=-28846.6 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0031.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence WHICH TOOK ITS RISE ALONGSIDE OF THE PRIMAL FOUNTS OF PHILOSOPHY LITERATURE AND ART silence  ==  [549 frames] -59.3020 [Ac=-32556.8 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0032.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence IN ANCIENT GREECE AND AFTER BEING DAMMED UP FOR A THOUSAND YEARS silence  ==  [402 frames] -58.1902 [Ac=-23392.5 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0033.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence ONCE MORE BEGAN TO FLOW THREE CENTURIES AGO silence  ==  [434 frames] -53.7115 [Ac=-23310.8 LM=0.0] (Act=6.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0034.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence IT MAY BE DOUBTED IF EVEN HANDED JUSTICE silence  ==  [433 frames] -54.2263 [Ac=-23480.0 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0035.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence AS FREE FROM FULSOME PANEGYRIC AS FROM CAPTIOUS DEPRECIATION silence  ==  [447 frames] -58.9698 [Ac=-26359.5 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0036.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence HAS EVER YET BEEN DEALT OUT TO THE SAGES OF ANTIQUITY silence  ==  [356 frames] -58.0290 [Ac=-20658.3 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0037.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence WHO FOR EIGHT CENTURIES FROM THE TIME OF THALES TO THAT OF GALEN silence  ==  [469 frames] -58.1535 [Ac=-27274.0 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0038.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence TOILED AT THE FOUNDATIONS OF PHYSICAL SCIENCE BUT silence  ==  [400 frames] -54.9328 [Ac=-21973.1 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0039.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WITHOUT ENTERING INTO THE DISCUSSION OF THAT LARGE QUESTION IT silence  ==  [340 frames] -58.9028 [Ac=-20026.9 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0040.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence IS CERTAIN THAT THE LABORS OF THESE EARLY WORKERS IN THE FIELD OF NATURAL KNOWLEDGE silence  ==  [453 frames] -60.4714 [Ac=-27393.5 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0041.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence WERE BROUGHT TO A STANDSTILL BY THE DECAY AND DISRUPTION OF THE ROMAN EMPIRE silence  ==  [479 frames] -56.9008 [Ac=-27255.5 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0042.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence THE CONSEQUENT DISORGANISATION OF SOCIETY AND THE DIVERSION OF MEN'S THOUGHTS FROM SUBLUNARY MATTERS silence  ==  [673 frames] -57.3769 [Ac=-38614.6 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0043.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence TO THE PROBLEMS OF THE SUPERNATURAL WORLD silence  ==  [226 frames] -60.8863 [Ac=-13760.3 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0044.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence SUGGESTED BY CHRISTIAN DOGMA IN THE MIDDLE AGES silence  ==  [357 frames] -56.0980 [Ac=-20027.0 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0045.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND NOTWITHSTANDING SPORADIC ATTEMPTS TO RECALL MEN TO THE INVESTIGATION OF NATURE silence  ==  [537 frames] -58.1504 [Ac=-31226.8 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0046.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence HERE AND THERE IT WAS NOT UNTIL THE FIFTEENTH AND SIXTEENTH CENTURIES silence  ==  [397 frames] -60.0277 [Ac=-23831.0 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0047.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence THAT PHYSICAL SCIENCE MADE A NEW START FOUNDING ITSELF AT FIRST silence  ==  [406 frames] -58.3240 [Ac=-23679.5 LM=0.0] (Act=7.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0048.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence ALTOGETHER UPON THAT WHICH HAD BEEN DONE BY THE GREEKS silence  ==  [354 frames] -55.4229 [Ac=-19619.7 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0049.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence INDEED IT MUST BE ADMITTED THAT THE MEN OF THE silence  ==  [310 frames] -57.0344 [Ac=-17680.7 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0050.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence RENAISSANCE THOUGH STANDING ON THE SHOULDERS OF THE OLD PHILOSOPHERS silence  ==  [397 frames] -57.7386 [Ac=-22922.2 LM=0.0] (Act=7.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0051.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WERE A LONG TIME BEFORE THEY SAW AS MUCH AS THEIR FORERUNNERS silence  ==  [341 frames] -59.8921 [Ac=-20423.2 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0052.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence HAD DONE THE FIRST SERIOUS ATTEMPTS TO CARRY FURTHER THE UNFINISHED WORK OF ARCHIMEDES silence  ==  [599 frames] -55.5535 [Ac=-33276.6 LM=0.0] (Act=9.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0053.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence HIPPARCHUS AND PTOLEMY OF ARISTOTLE AND OF GALEN silence  ==  [380 frames] -57.1082 [Ac=-21701.1 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0054.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence NATURALLY ENOUGH AROSE AMONG THE ASTRONOMERS AND THE PHYSICIANS silence  ==  [378 frames] -59.4058 [Ac=-22455.4 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0055a.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence FOR THE IMPERIOUS NECESSITY OF SEEKING SOME REMEDY FOR THE PHYSICAL ILLS OF LIFE silence  ==  [590 frames] -55.7455 [Ac=-32889.8 LM=0.0] (Act=6.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0055b.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence HAD INSURED THE PRESERVATION OF MORE OR LESS OF THE WISDOM OF HIPPOCRATES AND HIS SUCCESSORS silence  ==  [671 frames] -56.2538 [Ac=-37746.3 LM=0.0] (Act=10.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0056.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence AND BY A HAPPY CONJUNCTION OF CIRCUMSTANCES silence  ==  [375 frames] -54.6174 [Ac=-20481.5 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0057.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence THE JEWISH AND THE ARABIAN PHYSICIANS AND PHILOSOPHERS silence  ==  [380 frames] -55.6265 [Ac=-21138.1 LM=0.0] (Act=7.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0058.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence ESCAPED MANY OF THE INFLUENCES WHICH AT THAT TIME silence  ==  [343 frames] -58.1692 [Ac=-19952.1 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0059.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BLIGHTED NATURAL KNOWLEDGE IN THE CHRISTIAN WORLD ON THE OTHER HAND silence  ==  [432 frames] -57.4540 [Ac=-24820.1 LM=0.0] (Act=11.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0060.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence THE SUPERSTITIOUS HOPES AND FEARS WHICH AFFORDED COUNTENANCE TO ASTROLOGY AND TO ALCHEMY silence  ==  [546 frames] -59.1194 [Ac=-32279.2 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0061.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence ALSO SHELTERED ASTRONOMY AND THE GERMS OF CHEMISTRY silence  ==  [409 frames] -55.2236 [Ac=-22586.4 LM=0.0] (Act=7.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0062.mfc
+Created lattice with 21 nodes / 20 arcs from label file
+silence WHETHER FOR THIS OR FOR SOME BETTER REASON THE FOUNDERS OF THE SCHOOLS OF THE MIDDLE AGES INCLUDED ASTRONOMY silence  ==  [683 frames] -57.1235 [Ac=-39015.4 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0063.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence ALONG WITH GEOMETRY ARITHMETIC AND MUSIC silence  ==  [322 frames] -59.7933 [Ac=-19253.5 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0064.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence AS ONE OF THE FOUR BRANCHES OF ADVANCED EDUCATION silence  ==  [394 frames] -55.3274 [Ac=-21799.0 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0065.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence AND IN THIS RESPECT silence  ==  [191 frames] -54.9047 [Ac=-10486.8 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0066.mfc
+Created lattice with 23 nodes / 22 arcs from label file
+silence IT IS ONLY JUST TO THEM TO OBSERVE THAT THEY WERE FAR IN ADVANCE OF THOSE WHO SIT IN THEIR SEATS silence  ==  [577 frames] -58.3825 [Ac=-33686.7 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0067.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THE SCHOOL MEN CONSIDERED NO ONE TO BE PROPERLY EDUCATED silence  ==  [390 frames] -56.5891 [Ac=-22069.8 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0068.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence UNLESS HE WERE ACQUAINTED WITH AT ANY RATE ONE BRANCH OF silence  ==  [358 frames] -59.7959 [Ac=-21406.9 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0069.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence PHYSICAL SCIENCE WE HAVE NOT EVEN YET REACHED THAT STAGE OF ENLIGHTENMENT silence  ==  [616 frames] -54.1235 [Ac=-33340.1 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0070.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence IN THE EARLY DECADES OF THE SEVENTEENTH CENTURY silence  ==  [406 frames] -53.6030 [Ac=-21762.8 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0071.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence THE MEN OF THE RENAISSANCE COULD SHOW THAT THEY HAD ALREADY PUT OUT TO GOOD INTEREST silence  ==  [443 frames] -58.8935 [Ac=-26089.8 LM=0.0] (Act=10.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0072.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence THE TREASURE BEQUEATHED TO THEM BY THE GREEKS silence  ==  [265 frames] -56.2633 [Ac=-14909.8 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0073.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence THEY HAD PRODUCED THE ASTRONOMICAL SYSTEM OF COPERNICUS silence  ==  [352 frames] -58.2215 [Ac=-20494.0 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0074.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence WITH KEPLER'S GREAT ADDITIONS THE ASTRONOMICAL DISCOVERIES AND THE PHYSICAL INVESTIGATIONS OF GALILEO silence  ==  [638 frames] -58.3075 [Ac=-37200.2 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0075.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THE MECHANICS OF STEVINUS AND THE DE MAGNETE OF GILBERT silence  ==  [471 frames] -54.2327 [Ac=-25543.6 LM=0.0] (Act=10.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0076.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence THE ANATOMY OF THE GREAT FRENCH AND ITALIAN SCHOOLS silence  ==  [396 frames] -54.0844 [Ac=-21417.4 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0077.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence AND THE PHYSIOLOGY OF HARVEY IN ITALY WHICH HAD SUCCEEDED GREECE silence  ==  [498 frames] -55.0931 [Ac=-27436.4 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0078.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence IN THE HEGEMONY OF THE SCIENTIFIC WORLD silence  ==  [275 frames] -55.4782 [Ac=-15256.5 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0079.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence THE ACCADEMIA DEI LYNCEI AND SUNDRY OTHER SUCH ASSOCIATIONS FOR THE INVESTIGATION OF NATURE silence  ==  [652 frames] -58.3279 [Ac=-38029.8 LM=0.0] (Act=10.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0080.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence THE MODELS OF ALL SUBSEQUENT ACADEMIES AND SCIENTIFIC SOCIETIES silence  ==  [435 frames] -56.4181 [Ac=-24541.9 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0081.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence HAD BEEN FOUNDED WHILE THE LITERARY SKILL AND BITING WIT OF GALILEO silence  ==  [461 frames] -56.8361 [Ac=-26201.4 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0082.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence HAD MADE THE GREAT SCIENTIFIC QUESTIONS OF THE DAY silence  ==  [311 frames] -55.8830 [Ac=-17379.6 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0083.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence NOT ONLY INTELLIGIBLE BUT ATTRACTIVE TO THE GENERAL PUBLIC silence  ==  [510 frames] -56.5135 [Ac=-28821.9 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0084.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence IN OUR OWN COUNTRY FRANCIS BACON silence  ==  [356 frames] -54.9447 [Ac=-19560.3 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0085.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HAD ESSAYED TO SUM UP THE PAST OF PHYSICAL SCIENCE silence  ==  [346 frames] -55.4169 [Ac=-19174.2 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0086.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence AND TO INDICATE THE PATH WHICH IT MUST FOLLOW silence  ==  [277 frames] -56.2064 [Ac=-15569.2 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0087.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence IF ITS GREAT DESTINIES WERE TO BE FULFILLED AND silence  ==  [318 frames] -55.0773 [Ac=-17514.6 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0088.mfc
+Created lattice with 22 nodes / 21 arcs from label file
+silence THOUGH THE ATTEMPT WAS JUST SUCH A MAGNIFICENT FAILURE AS MIGHT HAVE BEEN EXPECTED FROM A MAN OF GREAT ENDOWMENTS silence  ==  [715 frames] -56.9878 [Ac=-40746.3 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0089.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence WHO WAS SO SINGULARLY DEVOID OF SCIENTIFIC INSIGHT silence  ==  [311 frames] -59.3617 [Ac=-18461.5 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0090.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THAT HE COULD NOT UNDERSTAND THE VALUE OF THE WORK ALREADY ACHIEVED silence  ==  [387 frames] -59.9877 [Ac=-23215.3 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0091.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence BY THE TRUE INSTAURATORS OF PHYSICAL SCIENCE silence  ==  [384 frames] -55.6021 [Ac=-21351.2 LM=0.0] (Act=7.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0092.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence YET THE MAJESTIC ELOQUENCE AND THE FERVID VATICINATIONS OF ONE WHO WAS CONSPICUOUS ALIKE silence  ==  [616 frames] -58.7915 [Ac=-36215.6 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0093.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence BY THE GREATNESS OF HIS RISE silence  ==  [174 frames] -57.7181 [Ac=-10042.9 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0094.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND THE DEPTH OF HIS FALL DREW THE ATTENTION OF ALL THE WORLD silence  ==  [375 frames] -59.1518 [Ac=-22181.9 LM=0.0] (Act=11.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0095.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence TO THE NEW BIRTH OF TIME silence  ==  [363 frames] -52.5461 [Ac=-19074.2 LM=0.0] (Act=6.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0096.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence BUT IT IS NOT EASY TO DISCOVER SATISFACTORY EVIDENCE silence  ==  [509 frames] -52.6111 [Ac=-26779.0 LM=0.0] (Act=7.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0097.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence THAT THE NOVUM ORGANUM HAD silence  ==  [185 frames] -57.1185 [Ac=-10566.9 LM=0.0] (Act=10.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0098.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence ANY DIRECT BENEFICIAL INFLUENCE ON THE ADVANCEMENT OF NATURAL KNOWLEDGE silence  ==  [469 frames] -58.1436 [Ac=-27269.3 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0099.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence NO DELUSION IS GREATER THAN THE NOTION THAT METHOD AND INDUSTRY silence  ==  [454 frames] -57.9877 [Ac=-26326.4 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0100.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence CAN MAKE UP FOR LACK OF MOTHERWIT EITHER IN SCIENCE silence  ==  [313 frames] -59.8594 [Ac=-18736.0 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0101.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence OR IN PRACTICAL LIFE AND IT IS STRANGE THAT silence  ==  [273 frames] -57.7339 [Ac=-15761.4 LM=0.0] (Act=11.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0102.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence WITH HIS KNOWLEDGE OF MANKIND BACON SHOULD HAVE DREAMED THAT HIS OR ANY OTHER silence  ==  [492 frames] -58.4376 [Ac=-28751.3 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0103.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence VIA INVENIENDI SCIENTIAS WOULD LEVEL MEN'S WITS AND LEAVE LITTLE SCOPE FOR THAT silence  ==  [600 frames] -60.0199 [Ac=-36012.0 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0104.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence INBORN CAPACITY WHICH IS CALLED GENIUS AS A MATTER OF FACT BACON'S VIA silence  ==  [618 frames] -54.7637 [Ac=-33844.0 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0105.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence HAS PROVED HOPELESSLY IMPRACTICABLE WHILE THE ANTICIPATION OF NATURE silence  ==  [495 frames] -56.5871 [Ac=-28010.6 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0106.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence BY THE INVENTION OF HYPOTHESES BASED ON INCOMPLETE INDUCTIONS silence  ==  [414 frames] -57.8239 [Ac=-23939.1 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0107.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WHICH HE SPECIALLY CONDEMNS HAS PROVED ITSELF TO BE A MOST EFFICIENT silence  ==  [471 frames] -57.7533 [Ac=-27201.8 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0108.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence INDEED AN INDISPENSABLE INSTRUMENT OF SCIENTIFIC PROGRESS FINALLY THAT TRANSCENDENTAL ALCHEMY silence  ==  [783 frames] -55.8450 [Ac=-43726.7 LM=0.0] (Act=7.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0109.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence THE SUPERINDUCEMENT OF NEW FORMS ON MATTER silence  ==  [298 frames] -56.4320 [Ac=-16816.8 LM=0.0] (Act=6.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0110.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WHICH BACON DECLARES TO BE THE SUPREME AIM OF SCIENCE silence  ==  [378 frames] -55.4945 [Ac=-20976.9 LM=0.0] (Act=7.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0111.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence HAS BEEN WHOLLY IGNORED BY THOSE WHO HAVE CREATED THE PHYSICAL KNOWLEDGE silence  ==  [411 frames] -57.7276 [Ac=-23726.0 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0112.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence OF THE PRESENT DAY EVEN THE ELOQUENT ADVOCACY OF THE CHANCELLOR silence  ==  [559 frames] -54.8834 [Ac=-30679.8 LM=0.0] (Act=12.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0113.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence BROUGHT NO UNMIXED GOOD TO PHYSICAL SCIENCE silence  ==  [308 frames] -55.7564 [Ac=-17173.0 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0114.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence IT WAS NATURAL ENOUGH THAT THE MAN WHO IN HIS BETTER MOMENTS TOOK silence  ==  [430 frames] -57.9485 [Ac=-24917.9 LM=0.0] (Act=10.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0115.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence ALL KNOWLEDGE FOR HIS PATRIMONY BUT IN HIS WORSE silence  ==  [338 frames] -57.5485 [Ac=-19451.4 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0116.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence SOLD THAT BIRTHRIGHT FOR THE MESS OF POTTAGE OF silence  ==  [247 frames] -60.3615 [Ac=-14909.3 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0117.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence COURT FAVOR AND PROFESSIONAL SUCCESS FOR POMP AND SHOW silence  ==  [434 frames] -56.1982 [Ac=-24390.0 LM=0.0] (Act=7.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0118.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence SHOULD BE LED TO ATTACH AN UNDUE VALUE TO silence  ==  [275 frames] -59.3047 [Ac=-16308.8 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0119.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THE PRACTICAL ADVANTAGES WHICH HE FORESAW AS ROGER BACON AND INDEED SENECA silence  ==  [520 frames] -59.4115 [Ac=-30894.0 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0120.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+silence HAD FORESEEN LONG BEFORE HIS TIME MUST FOLLOW IN THE TRAIN OF THE ADVANCEMENT OF NATURAL KNOWLEDGE silence  ==  [715 frames] -56.3322 [Ac=-40277.5 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0121a.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THE BURDEN OF BACON'S PLEADINGS FOR SCIENCE IS THE GATHERING OF FRUIT silence  ==  [507 frames] -54.5205 [Ac=-27641.9 LM=0.0] (Act=7.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0121b.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THE IMPORTANCE OF WINNING SOLID MATERIAL ADVANTAGES BY THE INVESTIGATION OF NATURE silence  ==  [589 frames] -56.5847 [Ac=-33328.4 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0122.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND THE DESIRABLENESS OF LIMITING THE APPLICATION OF SCIENTIFIC METHODS silence  ==  [439 frames] -59.4787 [Ac=-26111.1 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0123.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence OF INQUIRY TO THAT FIELD BACON'S YOUNGER CONTEMPORARY HOBBES silence  ==  [535 frames] -56.0184 [Ac=-29969.8 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0124.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence CASTING ASIDE THE PRUDENT RESERVE OF HIS PREDECESSOR silence  ==  [312 frames] -58.3700 [Ac=-18211.4 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0125.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence IN REGARD TO THOSE MATTERS silence  ==  [182 frames] -58.3609 [Ac=-10621.7 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0126.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+silence ABOUT WHICH THE CROWN OR THE CHURCH MIGHT HAVE SOMETHING TO SAY EXTENDED SCIENTIFIC METHODS OF INQUIRY silence  ==  [608 frames] -58.3868 [Ac=-35499.2 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0127.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence TO THE PHENOMENA OF MIND AND THE PROBLEMS OF SOCIAL ORGANISATION silence  ==  [417 frames] -56.4856 [Ac=-23554.5 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0128.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence WHILE AT THE SAME TIME HE INDICATED THE BOUNDARY BETWEEN THE PROVINCE OF REAL silence  ==  [495 frames] -56.9471 [Ac=-28188.8 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0129.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND THAT OF IMAGINARY KNOWLEDGE THE PRINCIPLES OF PHILOSOPHY AND THE LEVIATHAN silence  ==  [690 frames] -54.5086 [Ac=-37611.0 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0130.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence EMBODY A COHERENT SYSTEM OF PURELY SCIENTIFIC THOUGHT silence  ==  [378 frames] -59.5157 [Ac=-22496.9 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0131.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence IN LANGUAGE WHICH IS A MODEL OF CLEAR AND VIGOROUS ENGLISH STYLE AT silence  ==  [460 frames] -56.8620 [Ac=-26156.5 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0132.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THE SAME TIME IN FRANCE A MAN OF FAR GREATER SCIENTIFIC CAPACITY silence  ==  [531 frames] -56.3147 [Ac=-29903.1 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0133.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THAN EITHER BACON OR HOBBES RENE DESCARTES NOT ONLY IN HIS IMMORTAL silence  ==  [493 frames] -58.9597 [Ac=-29067.1 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0134.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence DISCOURS DE LA METHODE AND ELSEWHERE WENT DOWN TO THE FOUNDATIONS OF SCIENTIFIC CERTAINTY silence  ==  [571 frames] -57.0038 [Ac=-32549.2 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0135.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence BUT IN HIS PRINCIPES DE PHILOSOPHIE INDICATED silence  ==  [366 frames] -59.0030 [Ac=-21595.1 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0136.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence WHERE THE GOAL OF PHYSICAL SCIENCE REALLY LAY HOWEVER silence  ==  [409 frames] -55.6930 [Ac=-22778.4 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0137.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence DESCARTES WAS AN EMINENT MATHEMATICIAN AND IT WOULD SEEM THAT THE BENT OF silence  ==  [415 frames] -58.7250 [Ac=-24370.9 LM=0.0] (Act=10.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0138.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence HIS MIND LED HIM TO OVERESTIMATE THE VALUE OF DEDUCTIVE REASONING FROM GENERAL PRINCIPLES silence  ==  [561 frames] -58.5721 [Ac=-32858.9 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0139.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AS MUCH AS BACON HAD UNDERESTIMATED IT THE PROGRESS OF PHYSICAL SCIENCE silence  ==  [538 frames] -56.4935 [Ac=-30393.5 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0140.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence HAS BEEN EFFECTED NEITHER BY BACONIANS NOR BY CARTESIANS AS SUCH silence  ==  [496 frames] -57.6220 [Ac=-28580.5 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0141.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BUT BY MEN LIKE GALILEO AND HARVEY BOYLE AND NEWTON WHO silence  ==  [430 frames] -56.7279 [Ac=-24393.0 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0142.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence WOULD HAVE DONE THEIR WORK JUST AS WELL IF NEITHER BACON NOR DESCARTES silence  ==  [423 frames] -58.4369 [Ac=-24718.8 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0143.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence HAD EVER PROPOUNDED THEIR VIEWS RESPECTING THE MANNER IN WHICH SCIENTIFIC INVESTIGATION silence  ==  [497 frames] -59.0370 [Ac=-29341.4 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0144.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+silence SHOULD BE PURSUED silence  ==  [168 frames] -54.7936 [Ac=-9205.3 LM=0.0] (Act=6.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0145a.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence THE PROGRESS OF SCIENCE DURING THE FIRST CENTURY AFTER BACON'S DEATH silence  ==  [462 frames] -56.7937 [Ac=-26238.7 LM=0.0] (Act=7.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0145b.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence BY MEANS VERIFIED HIS SANGUINE PREDICTION OF THE FRUITS WHICH IT WOULD YIELD silence  ==  [511 frames] -56.8087 [Ac=-29029.3 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0146.mfc
+Created lattice with 20 nodes / 19 arcs from label file
+silence FOR THOUGH THE REVIVED AND RENEWED STUDY OF NATURE HAD SPREAD AND GROWN TO AN EXTENT WHICH SURPASSED silence  ==  [671 frames] -57.6771 [Ac=-38701.3 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0147.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence REASONABLE EXPECTATION THE PRACTICAL RESULTS THE GOOD TO MEN'S ESTATE silence  ==  [524 frames] -57.7357 [Ac=-30253.5 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0148.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence WERE AT FIRST BY NO MEANS APPARENT silence  ==  [243 frames] -57.0710 [Ac=-13868.3 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0149a.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+silence SIXTY YEARS AFTER BACON'S DEATH NEWTON HAD CROWNED THE LONG LABORS OF THE ASTRONOMERS AND THE PHYSICISTS silence  ==  [687 frames] -57.5431 [Ac=-39532.1 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0149b.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BY COORDINATING THE PHENOMENA OF SOLAR MOTION THROUGHOUT THE VISIBLE UNIVERSE silence  ==  [583 frames] -55.7676 [Ac=-32512.5 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0150.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence INTO ONE VAST SYSTEM BUT THE PRINCIPIA HELPED NO MAN TO EITHER WEALTH silence  ==  [488 frames] -58.3470 [Ac=-28473.3 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0151.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence OR COMFORT DESCARTES NEWTON AND LEIBNITZ silence  ==  [370 frames] -57.7518 [Ac=-21368.2 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0152.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence HAD OPENED UP NEW WORLDS TO THE MATHEMATICIAN BUT THE ACQUISITIONS OF THEIR GENIUS ENRICHED silence  ==  [529 frames] -60.8743 [Ac=-32202.5 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0153.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence ONLY MAN'S IDEAL ESTATE DESCARTES HAD LAID THE FOUNDATIONS OF RATIONAL COSMOGONY silence  ==  [549 frames] -58.8898 [Ac=-32330.5 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0154.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND OF PHYSIOLOGICAL PSYCHOLOGY BOYLE HAD PRODUCED MODELS OF EXPERIMENTATION silence  ==  [539 frames] -56.6357 [Ac=-30526.7 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0155.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence IN VARIOUS BRANCHES OF PHYSICS AND CHEMISTRY PASCAL silence  ==  [411 frames] -56.8114 [Ac=-23349.5 LM=0.0] (Act=7.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0156.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence AND TORRICELLI HAD WEIGHED THE AIR MALPIGHI AND GREW silence  ==  [395 frames] -58.8597 [Ac=-23249.6 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0157.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence RAY AND WILLOUGHBY HAD DONE WORK OF NO LESS IMPORTANCE IN THE BIOLOGICAL SCIENCES silence  ==  [508 frames] -57.9627 [Ac=-29445.0 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0158.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BUT WEAVING AND SPINNING WERE CARRIED ON WITH THE OLD APPLIANCES silence  ==  [435 frames] -55.5179 [Ac=-24150.3 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0159.mfc
+Created lattice with 20 nodes / 19 arcs from label file
+silence NOBODY COULD TRAVEL FASTER BY SEA OR BY LAND THAN AT ANY PREVIOUS TIME IN THE WORLD'S HISTORY silence  ==  [624 frames] -55.8861 [Ac=-34872.9 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0160.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence AND KING GEORGE COULD SEND A MESSAGE FROM LONDON TO YORK silence  ==  [350 frames] -55.2985 [Ac=-19354.5 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0161.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence NO FASTER THAN KING JOHN MIGHT HAVE DONE silence  ==  [356 frames] -54.3378 [Ac=-19344.2 LM=0.0] (Act=7.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0162.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence METALS WERE WORKED FROM THEIR ORES BY IMMEMORIAL RULE OF THUMB silence  ==  [344 frames] -61.2675 [Ac=-21076.0 LM=0.0] (Act=11.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0163.mfc
+Created lattice with 20 nodes / 19 arcs from label file
+silence AND THE CENTRE OF THE IRON TRADE OF THESE ISLANDS WAS STILL AMONG THE OAK FORESTS OF SUSSEX silence  ==  [555 frames] -55.9756 [Ac=-31066.4 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0164.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence THE UTMOST SKILL OF OUR MECHANICIANS DID NOT GET BEYOND THE PRODUCTION OF silence  ==  [498 frames] -56.5270 [Ac=-28150.4 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0165.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence A COARSE WATCH THE MIDDLE OF THE EIGHTEENTH CENTURY IS ILLUSTRATED BY A silence  ==  [494 frames] -56.9375 [Ac=-28127.1 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0166.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence HOST OF GREAT NAMES IN SCIENCE ENGLISH FRENCH GERMAN AND ITALIAN silence  ==  [457 frames] -57.3236 [Ac=-26196.9 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0167.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence ESPECIALLY IN THE FIELDS OF CHEMISTRY GEOLOGY AND BIOLOGY silence  ==  [437 frames] -57.0642 [Ac=-24937.1 LM=0.0] (Act=6.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0168.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence BUT THIS DEEPENING AND BROADENING OF NATURAL KNOWLEDGE PRODUCED NEXT TO NO IMMEDIATE PRACTICAL BENEFITS silence  ==  [658 frames] -56.3365 [Ac=-37069.4 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0169.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence EVEN IF AT THIS TIME FRANCIS BACON COULD HAVE RETURNED TO THE SCENE silence  ==  [530 frames] -55.0486 [Ac=-29175.8 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0170.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence OF HIS GREATNESS AND OF HIS LITTLENESS silence  ==  [272 frames] -56.0332 [Ac=-15241.0 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0171.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence HE MUST HAVE REGARDED THE PHILOSOPHIC WORLD WHICH PRAISED AND DISREGARDED HIS PRECEPTS silence  ==  [496 frames] -59.7467 [Ac=-29634.4 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0172.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence WITH GREAT DISFAVOR IF GHOSTS ARE CONSISTENT HE WOULD HAVE SAID silence  ==  [459 frames] -56.2088 [Ac=-25799.8 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0173.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THESE PEOPLE ARE ALL WASTING THEIR TIME JUST AS GILBERT silence  ==  [342 frames] -60.1513 [Ac=-20571.7 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0174.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND KEPLER AND GALILEO AND MY WORTHY PHYSICIAN HARVEY DID IN MY DAY silence  ==  [466 frames] -58.3264 [Ac=-27180.1 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0175.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WHERE ARE THE FRUITS OF THE RESTORATION OF SCIENCE WHICH I PROMISED silence  ==  [416 frames] -56.1527 [Ac=-23359.5 LM=0.0] (Act=7.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0176.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THIS ACCUMULATION OF BARE KNOWLEDGE IS ALL VERY WELL BUT silence  ==  [406 frames] -56.7855 [Ac=-23054.9 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0177.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence CUI BONO NOT ONE OF THESE PEOPLE IS DOING WHAT I TOLD HIM SPECIALLY TO DO silence  ==  [525 frames] -58.7069 [Ac=-30821.1 LM=0.0] (Act=10.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0178.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence AND SEEKING THAT SECRET OF THE CAUSE OF FORMS silence  ==  [319 frames] -56.6924 [Ac=-18084.9 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0179.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WHICH WILL ENABLE MEN TO DEAL AT WILL WITH MATTER silence  ==  [347 frames] -56.7288 [Ac=-19684.9 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0180.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence AND SUPERINDUCE NEW NATURES UPON THE OLD FOUNDATIONS silence  ==  [567 frames] -53.1059 [Ac=-30111.0 LM=0.0] (Act=6.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0181.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence BUT A LITTLE LATER THAT GROWTH OF KNOWLEDGE BEYOND IMAGINABLE UTILITARIAN ENDS silence  ==  [747 frames] -53.9962 [Ac=-40335.1 LM=0.0] (Act=7.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0182.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence WHICH IS THE CONDITION PRECEDENT OF ITS PRACTICAL UTILITY silence  ==  [358 frames] -57.7225 [Ac=-20664.6 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0183.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence BEGAN TO PRODUCE SOME EFFECT silence  ==  [176 frames] -58.9046 [Ac=-10367.2 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0184.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence UPON PRACTICAL LIFE AND THE OPERATION OF THAT PART OF NATURE silence  ==  [417 frames] -57.4568 [Ac=-23959.5 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0185.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence WE CALL HUMAN UPON THE REST BEGAN TO CREATE silence  ==  [353 frames] -58.1472 [Ac=-20526.0 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0186.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence NOT NEW NATURES IN BACON'S SENSE BUT A NEW NATURE silence  ==  [405 frames] -55.8767 [Ac=-22630.1 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0187.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence THE EXISTENCE OF WHICH IS DEPENDENT UPON MEN'S EFFORTS silence  ==  [370 frames] -56.5393 [Ac=-20919.5 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0188.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WHICH IS SUBSERVIENT TO THEIR WANTS AND WHICH WOULD DISAPPEAR silence  ==  [368 frames] -57.6561 [Ac=-21217.4 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0189.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence IF MAN'S SHAPING AND GUIDING HAND WERE WITHDRAWN EVERY MECHANICAL ARTIFICE silence  ==  [582 frames] -55.3188 [Ac=-32195.5 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0190.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence EVERY CHEMICALLY PURE SUBSTANCE EMPLOYED IN MANUFACTURE EVERY ABNORMALLY FERTILE RACE OF PLANTS silence  ==  [604 frames] -59.0209 [Ac=-35648.6 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0191.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence OR RAPIDLY GROWING AND FATTENING BREED OF ANIMALS silence  ==  [325 frames] -57.7512 [Ac=-18769.1 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0192.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence IS A PART OF THE NEW NATURE CREATED BY SCIENCE silence  ==  [363 frames] -55.9749 [Ac=-20318.9 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0193.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WITHOUT IT THE MOST DENSELY POPULATED REGIONS OF MODERN EUROPE AND AMERICA silence  ==  [519 frames] -58.0137 [Ac=-30109.1 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0194.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence MUST RETAIN THEIR PRIMITIVE SPARSELY INHABITED AGRICULTURAL OR PASTORAL CONDITION silence  ==  [615 frames] -57.3808 [Ac=-35289.2 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0195.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence IT IS THE FOUNDATION OF OUR WEALTH AND THE CONDITION OF OUR SAFETY FROM SUBMERGENCE silence  ==  [555 frames] -54.9209 [Ac=-30481.1 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0196.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence BY ANOTHER FLOOD OF BARBAROUS HORDES silence  ==  [266 frames] -57.1229 [Ac=-15194.7 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0197.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence IT IS THE BOND WHICH UNITES INTO A SOLID POLITICAL WHOLE silence  ==  [364 frames] -59.1240 [Ac=-21521.2 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0198.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence REGIONS LARGER THAN ANY EMPIRE OF ANTIQUITY IT SECURES US FROM THE RECURRENCE silence  ==  [566 frames] -56.9389 [Ac=-32227.4 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0199.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence OF THE PESTILENCES AND FAMINES OF FORMER TIMES silence  ==  [360 frames] -55.5286 [Ac=-19990.3 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0200.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence IT IS THE SOURCE OF ENDLESS COMFORTS AND CONVENIENCES silence  ==  [406 frames] -55.7803 [Ac=-22646.8 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0201.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence WHICH ARE NOT MERE LUXURIES BUT CONDUCE TO PHYSICAL AND MORAL WELL BEING silence  ==  [518 frames] -55.5168 [Ac=-28757.7 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0202.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence DURING THE LAST FIFTY YEARS THIS NEW BIRTH OF TIME THIS NEW NATURE silence  ==  [525 frames] -56.9177 [Ac=-29881.8 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0203.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BEGOTTEN BY SCIENCE UPON FACT HAS PRESSED ITSELF DAILY AND HOURLY silence  ==  [488 frames] -58.1816 [Ac=-28392.6 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0204.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence UPON OUR ATTENTION AND HAS WORKED MIRACLES WHICH HAVE MODIFIED THE WHOLE FASHION silence  ==  [489 frames] -58.0730 [Ac=-28397.7 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0205.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence OF OUR LIVES WHAT WONDER THEN IF THESE ASTONISHING FRUITS OF THE TREE OF KNOWLEDGE silence  ==  [660 frames] -54.1558 [Ac=-35742.8 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0206.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence ARE TOO OFTEN REGARDED BY BOTH FRIENDS AND ENEMIES silence  ==  [314 frames] -58.7375 [Ac=-18443.6 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0207.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence AS THE BE ALL AND END ALL OF SCIENCE silence  ==  [332 frames] -52.5472 [Ac=-17445.7 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0208.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence WHAT WONDER IF SOME EULOGISE AND OTHERS REVILE silence  ==  [392 frames] -56.1428 [Ac=-22008.0 LM=0.0] (Act=6.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0209.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THE NEW PHILOSOPHY FOR ITS UTILITARIAN ENDS AND ITS MERELY MATERIAL TRIUMPHS silence  ==  [651 frames] -54.2934 [Ac=-35345.0 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0210.mfc
+Created lattice with 20 nodes / 19 arcs from label file
+silence IN TRUTH THE NEW PHILOSOPHY DESERVES NEITHER THE PRAISE OF ITS EULOGISTS NOR THE BLAME OF ITS SLANDERERS silence  ==  [840 frames] -54.4685 [Ac=-45753.5 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0211.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence AS I HAVE POINTED OUT ITS silence  ==  [236 frames] -57.0100 [Ac=-13454.4 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0212.mfc
+Created lattice with 22 nodes / 21 arcs from label file
+silence DISCIPLES WERE GUIDED BY NO SEARCH AFTER PRACTICAL FRUITS DURING THE GREAT PERIOD OF ITS GROWTH AND IT REACHED ADOLESCENCE silence  ==  [735 frames] -60.4761 [Ac=-44449.9 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0213.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence WITHOUT BEING STIMULATED BY ANY REWARDS OF THAT NATURE silence  ==  [445 frames] -54.0235 [Ac=-24040.4 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0214.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THE BARE ENUMERATION OF THE NAMES OF THE MEN WHO silence  ==  [397 frames] -53.9778 [Ac=-21429.2 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0215.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WERE THE GREAT LIGHTS OF SCIENCE IN THE LATTER PART OF THE silence  ==  [260 frames] -59.7964 [Ac=-15547.1 LM=0.0] (Act=10.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0216.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence EIGHTEENTH AND THE FIRST DECADE OF THE NINETEENTH CENTURY OF HERSCHEL silence  ==  [432 frames] -58.1879 [Ac=-25137.2 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0217.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence OF LAPLACE OF YOUNG OF FRESNEL OF OERSTED OF CAVENDISH silence  ==  [499 frames] -57.2040 [Ac=-28544.8 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0218.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence OF LAVOISIER OF DAVY OF LAMARCK OF CUVIER OF JUSSIEU silence  ==  [598 frames] -54.8735 [Ac=-32814.4 LM=0.0] (Act=7.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0219.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence OF DECANDOLLE OF WERNER AND OF HUTTON silence  ==  [318 frames] -55.0762 [Ac=-17514.2 LM=0.0] (Act=10.3)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0220.mfc
+Created lattice with 22 nodes / 21 arcs from label file
+silence SUFFICES TO INDICATE THE STRENGTH OF PHYSICAL SCIENCE IN THE AGE IMMEDIATELY PRECEDING THAT OF WHICH I HAVE TO TREAT silence  ==  [796 frames] -56.1248 [Ac=-44675.4 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0221.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence BUT OF WHICH OF THESE GREAT MEN CAN IT BE SAID silence  ==  [356 frames] -53.7303 [Ac=-19128.0 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0222.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence THAT THEIR LABORS WERE DIRECTED TO PRACTICAL ENDS silence  ==  [310 frames] -56.5108 [Ac=-17518.4 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0223.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence I DO NOT CALL TO MIND EVEN AN INVENTION OF PRACTICAL UTILITY silence  ==  [429 frames] -57.8983 [Ac=-24838.4 LM=0.0] (Act=9.9)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0224.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence WHICH WE OWE TO ANY OF THEM EXCEPT THE SAFETY LAMP OF DAVY silence  ==  [419 frames] -58.7095 [Ac=-24599.3 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0225.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence WERNER CERTAINLY PAID ATTENTION TO MINING AND I HAVE NOT FORGOTTEN JAMES WATT silence  ==  [477 frames] -58.0476 [Ac=-27688.7 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0226.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence BUT THOUGH SOME OF THE MOST IMPORTANT OF THE IMPROVEMENTS silence  ==  [331 frames] -57.8408 [Ac=-19145.3 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0227.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence BY WHICH WATT CONVERTED THE STEAM ENGINE INVENTED LONG BEFORE HIS TIME silence  ==  [419 frames] -58.8680 [Ac=-24665.7 LM=0.0] (Act=7.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0228.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence INTO THE OBEDIENT SLAVE OF MAN silence  ==  [238 frames] -58.2712 [Ac=-13868.5 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0229.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WERE SUGGESTED AND GUIDED BY HIS ACQUAINTANCE WITH SCIENTIFIC PRINCIPLES silence  ==  [462 frames] -57.5056 [Ac=-26567.6 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0230.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HIS SKILL AS A PRACTICAL MECHANICIAN AND THE EFFICIENCY OF silence  ==  [351 frames] -58.8188 [Ac=-20645.4 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/knotyouraveragejo-20070620-sci/mfc/sci0231.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence BOLTON'S WORKMEN HAD QUITE AS MUCH TO DO WITH THE REALISATION OF HIS PROJECTS silence  ==  [446 frames] -60.6031 [Ac=-27029.0 LM=0.0] (Act=10.7)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+

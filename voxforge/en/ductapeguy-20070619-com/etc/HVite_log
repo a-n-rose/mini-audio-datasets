@@ -1,0 +1,427 @@
+HVite -A -D -T 1 -l * -o SWT -b silence -C /data/svn-mirror/Main/Trunk/Scripts/AcousticModel_scripts/HTK/AMCreate_scripts/input_files/config -H ./interim_files/hmm7/macros -H ./interim_files/hmm7/hmmdefs -i ./interim_files/aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I ./interim_files/words.mlf -S ./interim_files/train.scp ./interim_files/dict1 ./interim_files/monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 43 physical / 43 logical HMMs
+Label file will be used to align each file
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0001.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence CHAPTER ELEVEN OF COMIC HISTORY OF ENGLAND BY BILL NYE silence  ==  [565 frames] -58.0664 [Ac=-32807.5 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0002.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence THIS IS A LIBRIVOX RECORDING ALL LIBRIVOX RECORDINGS ARE IN THE PUBLIC DOMAIN silence  ==  [658 frames] -58.5218 [Ac=-38507.3 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0003.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence FOR MORE INFORMATION OR TO VOLUNTEER PLEASE VISIT LIBRIVOX DOT silence  ==  [531 frames] -60.6334 [Ac=-32196.3 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0004.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence ORG CHAPTER ELEVEN UNCOMFORTABLE EFFECTS FOLLOWING THE CULTIVATION silence  ==  [639 frames] -59.6902 [Ac=-38142.0 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0005.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence OF AN ACQUISITORIAL PROPENSITY IN ELEVEN SEVENTY THREE OCCURRED THE CONQUEST OF IRELAND silence  ==  [609 frames] -60.3856 [Ac=-36774.9 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0006.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence ANCIENTLY CALLED HIBERNIA THESE PEOPLE WERE SIMILAR TO THE BRITONS silence  ==  [563 frames] -60.5804 [Ac=-34106.7 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0007.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence BUT OF THEIR HISTORY PRIOR TO THE YEAR FOUR silence  ==  [265 frames] -62.1667 [Ac=-16474.2 LM=0.0] (Act=10.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0008.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence HUNDRED A D LITTLE IS KNOWN BEFORE CHRIST silence  ==  [397 frames] -59.6275 [Ac=-23672.1 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0009.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence A RACE OF MEN INHABITED IRELAND HOWEVER silence  ==  [274 frames] -62.3170 [Ac=-17074.9 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0010.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WHO HAD THEIR OWN LITERATURE AND WHO WERE ADVANCED IN THE ARTS silence  ==  [439 frames] -59.7118 [Ac=-26213.5 LM=0.0] (Act=10.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0011.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THIS WAS BEFORE THE INTRODUCTION OF THE EARLY MASS WHISKERS silence  ==  [509 frames] -60.2545 [Ac=-30669.5 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0012.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence AND PRIOR TO THE DAYS WHEN THE ORANGEMEN HAD SENT FORTH THEIR DEFIANT PEAL silence  ==  [612 frames] -56.8759 [Ac=-34808.0 LM=0.0] (Act=7.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0013.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence ILLUSTRATION EARLY MASS WHISKERS IN THE FIFTH CENTURY IRELAND WAS CONVERTED BY ST PATRICK silence  ==  [1055 frames] -56.2329 [Ac=-59325.7 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0014.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence AND SHE BECAME KNOWN AS THE ISLAND OF SAINTS AND SCHOLARS silence  ==  [461 frames] -55.4402 [Ac=-25557.9 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0015.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+silence TO SAY THAT SHE HAS BECOME THE ISLAND OF PUGILISTS AND POLICEMEN TO DAY WOULD BE UNJUST silence  ==  [672 frames] -57.0829 [Ac=-38359.7 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0016.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND TO SAY THAT SHE HAS MORE INFLUENCE IN AMERICA silence  ==  [307 frames] -60.3573 [Ac=-18529.7 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0017.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence THAN IN IRELAND WOULD BE UNKIND SURELY HER MODERN HISTORY IS MOST PATHETIC silence  ==  [544 frames] -61.4962 [Ac=-33453.9 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0018.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence FOR THREE CENTURIES THE ISLAND WAS HARASSED BY THE DANES AND NORTHMEN BUT silence  ==  [484 frames] -61.9379 [Ac=-29977.9 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0019.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence WHEN THE MARQUIS OF QUEENSBERRY RULES WERE ADOPTED silence  ==  [343 frames] -62.5952 [Ac=-21470.1 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0020.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence THE LATTER THREW UP THE SPONGE silence  ==  [253 frames] -58.7774 [Ac=-14870.7 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0021.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence THE FINISH FIGHT OCCURRED AT CLONTARF NEAR DUBLIN silence  ==  [633 frames] -55.5607 [Ac=-35169.9 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0022.mfc
+Created lattice with 21 nodes / 20 arcs from label file
+silence HENRY HAD WRITTEN PERMISSION FROM THE POPE TO CONQUER IRELAND YEARS AND YEARS BEFORE HE CARED TO DO IT silence  ==  [864 frames] -57.5747 [Ac=-49744.5 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0023.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence SOMETIMES IT RAINED AND AT OTHER TIMES HE DID NOT FEEL LIKE IT silence  ==  [436 frames] -61.3130 [Ac=-26732.5 LM=0.0] (Act=11.3)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0024.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence SO THAT HIS PERMISSION GOT ALMOST WORN OUT BY CARRYING IT ABOUT WITH HIM silence  ==  [499 frames] -59.0895 [Ac=-29485.7 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0025.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence IN ELEVEN SEVENTY TWO HOWEVER AN IRISH CHIEF silence  ==  [418 frames] -56.4836 [Ac=-23610.2 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0026.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence OR SUBORDINATE KING HAD TROUBLE WITH HIS KINGDOM silence  ==  [396 frames] -60.0786 [Ac=-23791.1 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0027.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence DOUBTLESS BECAUSE SOME RIVAL MONARCH STEPPED IN IT AND TRACKED IT AROUND OVER THE OTHER KINGDOMS silence  ==  [714 frames] -59.9710 [Ac=-42819.3 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0028.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND SO HE CALLED UPON THE ANGLO NORMANS UNDER STRONGBOW silence  ==  [446 frames] -57.9405 [Ac=-25841.4 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0029.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence RICHARD DE CLARE WHOSE DECLARATION OF INDEPENDENCE silence  ==  [457 frames] -60.3324 [Ac=-27571.9 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0030.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WAS THE FIRST THING OF THE KIND KNOWN TO CIVILIZATION FOR HELP silence  ==  [467 frames] -58.8526 [Ac=-27484.2 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0031.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence WHILE ASSISTING THE IRISH CHIEF STRONGBOW NOTICED A ROYAL WINK ON THE FEATURES OF HENRY silence  ==  [638 frames] -60.1480 [Ac=-38374.5 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0032.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND ACTING UPON IT PROCEEDED TO GATHER IN THE OTHER PRECINCTS OF IRELAND silence  ==  [476 frames] -60.8400 [Ac=-28959.8 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0033.mfc
+Created lattice with 21 nodes / 20 arcs from label file
+silence THUS IN ELEVEN SEVENTY TWO THE ISLAND WAS PLACED UNDER THE RULE OF A VICEROY SENT THERE BY ENGLAND silence  ==  [850 frames] -56.7087 [Ac=-48202.4 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0034.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence HENRY NOW HAD TROUBLE WITH THREE OF HIS SONS silence  ==  [506 frames] -55.6549 [Ac=-28161.4 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0035.mfc
+Created lattice with 21 nodes / 20 arcs from label file
+silence HENRY RICHARD AND GEOFFREY WHO THREATENED THAT IF THE OLD GENTLEMAN DID NOT DIVIDE UP HIS KINGDOM AMONG THEM silence  ==  [647 frames] -61.9946 [Ac=-40110.5 LM=0.0] (Act=11.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0036.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence THEY WOULD GO TO PARIS AND GO INTO THE ROUE BUSINESS silence  ==  [511 frames] -54.9147 [Ac=-28061.4 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0037.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence HENRY HIMSELF WAS GREATLY TALKED ABOUT AND HIS NAME COUPLED WITH THAT OF FAIR ROSAMOND CLIFFORD silence  ==  [746 frames] -58.1177 [Ac=-43355.8 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0038.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence A RIVAL OF QUEEN ELEANOR THE silence  ==  [262 frames] -61.2971 [Ac=-16059.9 LM=0.0] (Act=10.4)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0039.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence KING REFUSED TO GRANT THE REQUEST OF HIS SONS silence  ==  [424 frames] -60.3179 [Ac=-25574.8 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0040.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence AND BADE THEM GO AHEAD WITH THEIR ROUE ENTERPRISES silence  ==  [362 frames] -61.1761 [Ac=-22145.7 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0041.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence SO LONG AS THEY DID NOT ENTER INTO COMPETITION WITH HIM silence  ==  [556 frames] -53.7600 [Ac=-29890.6 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0042.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence ILLUSTRATION THE BECKET DIFFICULTY STILL KEPT HENRY AWAKE AT NIGHT silence  ==  [854 frames] -53.7603 [Ac=-45911.3 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0043.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence SO THEY WENT TO PARIS WHERE THEIR CUTTINGS UP WERE NOT NOTICED silence  ==  [694 frames] -55.2995 [Ac=-38377.8 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0044.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence THE QUEEN TOOK THEIR SIDE AS ALSO DID LOUIS OF FRANCE AND WILLIAM KING OF SCOTLAND silence  ==  [783 frames] -57.9780 [Ac=-45396.8 LM=0.0] (Act=8.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0045.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence WITH THE BECKET DIFFICULTY STILL KEEPING HIM AWAKE OF NIGHTS ALSO silence  ==  [546 frames] -57.2833 [Ac=-31276.7 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0046.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence THE KING WAS IN CONSTANT HOT WATER silence  ==  [288 frames] -60.8171 [Ac=-17515.3 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0047.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence AND FOR A TIME IT SEEMED THAT HE WOULD HAVE TO SEEK OTHER EMPLOYMENT silence  ==  [438 frames] -60.7522 [Ac=-26609.5 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0048.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence BUT HIS MASTERLY HIT IN MAKING A BAREFOOTED PILGRIMAGE TO THE TOMB OF silence  ==  [501 frames] -60.4486 [Ac=-30284.8 LM=0.0] (Act=10.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0049.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence BECKET THUS SECURING ABSOLUTION FROM THE ARCHBISHOP OF CANTERBURY TURNED silence  ==  [522 frames] -62.1461 [Ac=-32440.3 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0050.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence THE TIDE WILLIAM OF SCOTLAND WAS MADE A PRISONER IN ELEVEN SEVENTY FOUR AND silence  ==  [513 frames] -60.9053 [Ac=-31244.4 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0051.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence THE CONFEDERACY AGAINST THE KING BROKEN UP THUS silence  ==  [408 frames] -60.1099 [Ac=-24524.8 LM=0.0] (Act=9.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0052.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence IN ELEVEN SEVENTY FIVE THE CASTLE AT EDINBURGH CAME INTO THE HANDS OF THE ENGLISH silence  ==  [466 frames] -60.8686 [Ac=-28364.8 LM=0.0] (Act=9.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0053.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence AND ROAST BEEF WAS SUBSTITUTED FOR OATS silence  ==  [355 frames] -58.2212 [Ac=-20668.5 LM=0.0] (Act=7.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0054.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+silence IRISH AND SCOTCH WHISKEY WERE NOW INTRODUCED INTO THE NATIONAL POLICY AND BITS OF BRIGHT ENGLISH HUMOR silence  ==  [728 frames] -60.6072 [Ac=-44122.1 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0055.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence WITH FOOT NOTES FOR THE USE OF THE SCOTS silence  ==  [268 frames] -61.5447 [Ac=-16494.0 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0056.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WERE SHIPPED TO EDINBURGH HENRY HAD MORE TROUBLE WITH HIS SONS HOWEVER silence  ==  [495 frames] -58.3632 [Ac=-28889.8 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0057.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+silence AND THEY EMBITTERED HIS LIFE AS THE SONS OF A TOO FROLICSOME FATHER ARE APT TO DO silence  ==  [636 frames] -58.7071 [Ac=-37337.7 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0058.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence HENRY JR DIED REPENTANT silence  ==  [317 frames] -56.0657 [Ac=-17772.8 LM=0.0] (Act=7.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0059.mfc
+Created lattice with 22 nodes / 21 arcs from label file
+silence BUT GEOFFREY PERISHED IN HIS SINS IN A TOURNAMENT ALTHOUGH GENERALLY THE TOURNAMENT WAS SUPPOSED TO BE CONDUCIVE TO LONGEVITY silence  ==  [894 frames] -59.4432 [Ac=-53142.2 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0060.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence RICHARD WAS CONSTITUTIONALLY A REBEL AND AT LAST COMPELLED THE OLD GENTLEMAN TO silence  ==  [640 frames] -58.7803 [Ac=-37619.4 LM=0.0] (Act=10.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0061.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence YIELD TO A HUMILIATING TREATY WITH THE FRENCH IN ELEVEN EIGHTY NINE silence  ==  [515 frames] -61.7271 [Ac=-31789.4 LM=0.0] (Act=9.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0062.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence FINDING IN THE LIST OF THE OPPOSING FORCES THE NAME OF JOHN HIS YOUNG FAVORITE SON silence  ==  [572 frames] -60.9541 [Ac=-34865.8 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0063.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence THE POOR OLD BATTERED MONARCH IN ELEVEN EIGHTY NINE silence  ==  [367 frames] -62.0028 [Ac=-22755.0 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0064.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence SELECTED AN UNOCCUPIED GRAVE AND TOOK POSSESSION OF SAME silence  ==  [506 frames] -61.1640 [Ac=-30949.0 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0065.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence ILLUSTRATION THE UNHAPPY FATHER SANK INTO THE GRAVE silence  ==  [494 frames] -59.0434 [Ac=-29167.5 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0066.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence HE CURSED HIS SONS AND DIED MISERABLY DESERTED BY HIS FOLLOWERS silence  ==  [476 frames] -59.7352 [Ac=-28433.9 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0067.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence WHO TOOK SUCH CLOTHING AS FITTED THEM BEST AND WOULD HAVE silence  ==  [338 frames] -63.0000 [Ac=-21294.0 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0068.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence PAWNED THE THRONE HAD IT NOT BEEN OUT OF STYLE AND UNAVAILABLE FOR THAT PURPOSE silence  ==  [463 frames] -61.9234 [Ac=-28670.5 LM=0.0] (Act=10.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0069.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence BESIDE BEING SECURED TO THE CASTLE silence  ==  [329 frames] -59.1403 [Ac=-19457.2 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0070.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HIS OFFICIAL LIFE WAS CREDITABLE TO A HIGH DEGREE BUT silence  ==  [401 frames] -59.9622 [Ac=-24044.9 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0071.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence HIS PRIVATE LIFE SEEMED TO CALL LOUDLY FOR A GOOD COMPETENT silence  ==  [373 frames] -61.6618 [Ac=-22999.8 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0072.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence DISINFECTANT ILLUSTRATION WHEN RICHARD WAS SICK THE GENEROUS SULTAN SENT HIM FRUITS AND ICE silence  ==  [902 frames] -56.5490 [Ac=-51007.2 LM=0.0] (Act=7.3)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0073.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence RICHARD KYUR DUH LEONG AS THE FRENCH HAVE IT silence  ==  [430 frames] -58.1431 [Ac=-25001.5 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0074.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence OR RICHARD I OF THE LION HEART silence  ==  [322 frames] -62.9414 [Ac=-20267.1 LM=0.0] (Act=10.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0075.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence REIGNED IN HIS FATHER'S STEAD FROM ELEVEN EIGHTY NINE silence  ==  [350 frames] -59.5091 [Ac=-20828.2 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0076.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence TO ELEVEN NINETY NINE HIS REIGN OPENED WITH A DISAGREEABLE MASSACRE silence  ==  [555 frames] -58.8716 [Ac=-32673.7 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0077.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence THE JEWS WHO HAD BROUGHT HIM SOME PRESENTS TO WEAR AT silence  ==  [346 frames] -59.6308 [Ac=-20632.2 LM=0.0] (Act=11.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0078.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence HIS INAUGURAL BALL WERE INSULTED BY THE POPULACE silence  ==  [379 frames] -61.2092 [Ac=-23198.3 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0079.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence WHO BELIEVED THAT THE KING FAVORED A MASSACRE silence  ==  [286 frames] -62.2795 [Ac=-17811.9 LM=0.0] (Act=10.4)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0080.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence AND SO MANY WERE PUT TO DEATH silence  ==  [366 frames] -53.4293 [Ac=-19555.1 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0081.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence RICHARD AND PHILIP OF FRANCE ORGANIZED A SUCCESSFUL CRUSADE AGAINST PEOPLE silence  ==  [586 frames] -57.8704 [Ac=-33912.1 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0082.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence WHO WERE NOT DEEMED ORTHODOX AND SUCCEEDED IN BAGGING A GOOD MANY IN SYRIA silence  ==  [530 frames] -61.8367 [Ac=-32773.4 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0083.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence WHERE THE WOODS WERE FULL OF INFIDELS silence  ==  [304 frames] -59.9225 [Ac=-18216.4 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0084.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence RICHARD HOWEVER WAS SO OVERBEARING THAT PHILIP COULD NOT GET ALONG WITH HIM silence  ==  [488 frames] -60.0207 [Ac=-29290.1 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0085.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND THEY DISSOLVED PARTNERSHIP BUT RICHARD CAPTURED ASCALON AFTER THIS silence  ==  [524 frames] -60.6927 [Ac=-31803.0 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0086.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence HIS ARMY WAS TOO MUCH REDUCED HOWEVER TO CAPTURE JERUSALEM silence  ==  [500 frames] -58.6279 [Ac=-29313.9 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0087.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence SALADIN THE OPPOSING SULTAN WAS A GREAT ADMIRER silence  ==  [433 frames] -59.6957 [Ac=-25848.2 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0088.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence OF RICHARD AND WHEN THE LION HEARTED KING WAS ILL SENT HIM FRUITS AND EVEN ICE silence  ==  [503 frames] -61.2811 [Ac=-30824.4 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0089.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence SO THE HISTORIAN SAYS WHERE THE SARACENS GOT THEIR ICE AT THAT TIME silence  ==  [590 frames] -59.3938 [Ac=-35042.4 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0090.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+silence WE CAN ONLY SURMISE silence  ==  [192 frames] -59.1310 [Ac=-11353.2 LM=0.0] (Act=6.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0091.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence PEACE WAS ESTABLISHED AND THE PILGRIMS WHO DESIRED TO ENTER THE HOLY CITY silence  ==  [476 frames] -60.6934 [Ac=-28890.1 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0092.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WERE UNMOLESTED THIS MATTER WAS SETTLED IN ELEVEN NINETY TWO silence  ==  [547 frames] -57.7471 [Ac=-31587.6 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0093.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence ON HIS RETURN RICHARD WAS COMPELLED TO GO INCOG THROUGH GERMANY silence  ==  [530 frames] -59.5912 [Ac=-31583.3 LM=0.0] (Act=9.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0094.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence AS THE AUTHORITIES WERE OPPOSED TO HIM silence  ==  [315 frames] -57.4018 [Ac=-18081.6 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0095.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence HE WAS DISCOVERED AND CONFINED TILL A LARGE RANSOM WAS PAID silence  ==  [543 frames] -57.8952 [Ac=-31437.1 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0096.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence PHILIP AND JOHN THE KING'S BROTHER DECIDED THAT RICHARD'S EXTREMITY WAS THEIR OPPORTUNITY silence  ==  [620 frames] -60.7311 [Ac=-37653.3 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0097.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND SO CONCLUDED TO DIVIDE UP HIS KINGDOM BETWEEN THEM silence  ==  [423 frames] -56.6569 [Ac=-23965.9 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0098.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence AT THIS DRAMATIC MOMENT RICHARD silence  ==  [297 frames] -57.4874 [Ac=-17073.8 LM=0.0] (Act=9.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0099.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence HAVING PAID HIS SIXTY THOUSAND POUNDS RANSOM AND TIPPED HIS CUSTODIAN silence  ==  [468 frames] -61.7392 [Ac=-28893.9 LM=0.0] (Act=9.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0100.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence ENTERED THE ENGLISH ARENA AND THE JIG WAS UP silence  ==  [386 frames] -59.8425 [Ac=-23099.2 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0101.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence JOHN WAS OBLIGED TO ASK PARDON AND RICHARD GENEROUSLY silence  ==  [434 frames] -60.6118 [Ac=-26305.5 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0102.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence GAVE IT WITH THE EXCLAMATION silence  ==  [295 frames] -58.5277 [Ac=-17265.7 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0103.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence OH THAT I COULD FORGET HIS INJURIES AS SOON AS HE WILL MY FORGIVENESS silence  ==  [672 frames] -56.4290 [Ac=-37920.3 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0104.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence ILLUSTRATION RICHARD TRAVELLING INCOG THROUGH GERMANY RICHARD NEVER SECURED A PEACE WITH PHILIP silence  ==  [813 frames] -58.2263 [Ac=-47338.0 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0105.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence BUT DIED IN ELEVEN NINETY NINE FROM THE EFFECTS OF A WOUND silence  ==  [359 frames] -60.6700 [Ac=-21780.5 LM=0.0] (Act=11.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0106.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence RECEIVED IN FRANCE AND WHEN BUT FORTY TWO YEARS OF AGE silence  ==  [467 frames] -59.3508 [Ac=-27716.8 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0107.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence THE LONGEVITY AMONG MONARCHS OF THE PRESENT DAY IS INDEED GRATIFYING silence  ==  [517 frames] -59.5947 [Ac=-30810.5 LM=0.0] (Act=8.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0108.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence WHEN ONE READS OF THE BRIEF LIVES OF THESE OLD REIGNERS silence  ==  [356 frames] -62.4131 [Ac=-22219.1 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0109.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence FOR IT SURELY DEMONSTRATES THAT ROYALTY silence  ==  [293 frames] -61.4491 [Ac=-18004.6 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0110.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WHEN NOT CARRIED TO EXCESS IS RATHER CONDUCIVE TO HEALTH THAN OTHERWISE silence  ==  [506 frames] -60.3789 [Ac=-30551.7 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0111.mfc
+Created lattice with 20 nodes / 19 arcs from label file
+silence RICHARD DIED FROM THE EFFECTS OF AN ARROW WOUND AND ALL HIS FOES IN THIS ENGAGEMENT WERE HANGED silence  ==  [599 frames] -60.6141 [Ac=-36307.8 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0112.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence EXCEPT THE YOUNG WARRIOR WHO HAD GIVEN HIM HIS DEATH WOUND silence  ==  [464 frames] -59.1080 [Ac=-27426.1 LM=0.0] (Act=10.5)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0113.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence DOUBTLESS THIS WAS DONE TO ENCOURAGE GOOD MARKSMANSHIP silence  ==  [505 frames] -58.4193 [Ac=-29501.7 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0114.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence ENGLAND GOT NO BENEFIT FROM RICHARD'S GREAT DARING AND EXPENSIVE PICNICS IN PALESTINE silence  ==  [627 frames] -59.6543 [Ac=-37403.2 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0115.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence BUT OF COURSE HE ADVERTISED GREAT BRITAIN AND FRIGHTENED FOREIGN POWERS CONSIDERABLY silence  ==  [569 frames] -61.4065 [Ac=-34940.3 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0116.mfc
+Created lattice with 20 nodes / 19 arcs from label file
+silence THE TAXATION NECESSARY TO MAINTAIN AN ARMY IN THE HOLY LAND WHERE BOARD WAS HIGH KEPT ENGLAND POOR silence  ==  [721 frames] -60.5744 [Ac=-43674.2 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0117.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence BUT EVERY ONE WAS PROUD OF RICHARD silence  ==  [244 frames] -61.1372 [Ac=-14917.5 LM=0.0] (Act=9.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0118.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence BECAUSE HE FEARED NOT THE FACE OF CLAY silence  ==  [312 frames] -58.2828 [Ac=-18184.2 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0119.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence JOHN THE DISAGREEABLE BROTHER SUCCEEDED RICHARD AND REIGNED SEVENTEEN YEARS silence  ==  [623 frames] -59.7983 [Ac=-37254.3 LM=0.0] (Act=8.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0120.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THOUGH HIS NEPHEW ARTHUR THE SON OF GEOFFREY WAS THE RIGHTFUL HEIR silence  ==  [546 frames] -57.9080 [Ac=-31617.8 LM=0.0] (Act=8.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0121.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence PHILIP WHO KEPT HIMSELF IN POCKET MONEY BY STARTING ONE HORSE REBELLIONS AGAINST ENGLAND silence  ==  [648 frames] -59.1240 [Ac=-38312.3 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0122.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence JOINED WITH ARTHUR LONG ENOUGH TO EFFECT A TREATY IN TWELVE HUNDRED silence  ==  [459 frames] -62.6489 [Ac=-28755.9 LM=0.0] (Act=9.7)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0123.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence WHICH KEPT HIM IN GROCERIES SEVERAL YEARS silence  ==  [300 frames] -61.4069 [Ac=-18422.1 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0124.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence WHEN HE AGAIN BROUGHT PRINCE ARTHUR FORWARD BUT THIS WAS DISASTROUS silence  ==  [506 frames] -60.8777 [Ac=-30804.1 LM=0.0] (Act=9.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0125.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence FOR THE YOUNG PRINCE WAS CAPTURED AND CRUELLY ASSASSINATED BY REQUEST OF HIS AFFECTIONATE UNCLE silence  ==  [627 frames] -61.5732 [Ac=-38606.4 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0126.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence KING JOHN TO BE A RELATIVE OF THE KING IN THOSE silence  ==  [331 frames] -61.5843 [Ac=-20384.4 LM=0.0] (Act=12.3)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0127.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence GOOD OLD DAYS WAS GENERALLY FATAL silence  ==  [287 frames] -59.1186 [Ac=-16967.0 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0128.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence LET US REJOICE THAT TIMES HAVE SO GREATLY IMPROVED silence  ==  [433 frames] -59.9228 [Ac=-25946.6 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0129.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence AND THAT THE WICKED MONARCH HAS LEARNED TO SEAT HIMSELF GINGERLY UPON HIS BOMB INFESTED THRONE silence  ==  [786 frames] -57.9808 [Ac=-45572.9 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0130.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence ILLUSTRATION JOHN CAUSED ARTHUR TO BE CRUELLY MURDERED END OF CHAPTER ELEVEN silence  ==  [932 frames] -55.1223 [Ac=-51373.9 LM=0.0] (Act=9.1)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0131.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence READ FOR LIBRIVOX DOT ORG BY SEAN MCGAUGHEY silence  ==  [453 frames] -59.4103 [Ac=-26912.9 LM=0.0] (Act=8.2)
+Aligning File: /data/UserSubmissions/Quarantine/ductapeguy-20070619-com/mfc/com0132.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence W W W DOT DUCT TAPE GUY DOT NET silence  ==  [409 frames] -60.8454 [Ac=-24885.8 LM=0.0] (Act=12.9)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+

@@ -1,0 +1,10 @@
+de4-05 die danach verschlüsselt werden. 
+de4-06 Jede Datei kann über das ungesicherte Internet an den Empfänger gesendet werden. 
+de4-07 Bei einem symmetrischen Kryptosystem wird anders vorgegangen. 
+de4-08 Die Stromverschlüsselung wird üblicherweise mit einer höheren Geschwindigkeit durchgeführt. 
+de4-09 Erhebliche Sicherheitsmängel sind möglich, wenn die Software nicht korrekt eingesetzt wird. 
+de4-10 Auch theoretisch kann diese Art von Verschlüsselung nicht geknackt werden, 
+de4-11 das wurde im Jahr 1949 bewiesen. 
+de4-12 Es handelt sich um eine vollständig zufällige Abfolge von Zeichen. 
+de4-13 Der Schlüsselstrom wird mit dem Klartext kombiniert. 
+de4-14 Lediglich einige sehr kritische Anwendungen verwenden dieses Verfahren. 

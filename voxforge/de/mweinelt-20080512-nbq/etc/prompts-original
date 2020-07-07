@@ -1,0 +1,10 @@
+de10-093 Mit dem geheimen Schlüssel werden die Daten verschlüsselt. 
+de10-094 Der Empfänger kann durch die Überprüfung des Wertes feststellen, 
+de10-095 ob das Datum auf dem Weg zu ihm verändert wurde. 
+de10-096 Die digitale Signatur wurde mit dem öffentlichen Schlüssel überprüft. 
+de10-097 Die Mitteilung wurde mit dem eigenen privaten Schlüssel signiert 
+de10-098 und mit dem öffentlichen Schlüssel des Empfängers verschlüsselt. 
+de10-099 Dieser Schlüssel wird lediglich ein einziges Mal verwendet. 
+de10-100 Der Empfänger nimmt den öffentlichen Schlüssel des Absenders. 
+de10-101 Wenn die beiden Werte gleich sind, 
+de10-102 dann wurde der Klartext nicht verändert. 
